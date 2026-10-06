@@ -9,7 +9,15 @@
 	// every slot, rearranging as they like, and then presses Check.
 	import { onDestroy } from 'svelte';
 	import Tile from './Tile.svelte';
-	import { MORPHEMES, TYPE_NAMES, tileLabel, trayFor, writtenForm, type Word } from './content';
+	import {
+		MORPHEMES,
+		TYPE_NAMES,
+		meaningIn,
+		tileLabel,
+		trayFor,
+		writtenForm,
+		type Word
+	} from './content';
 	import { BOUNCE_MS, CORRECT_MS, type Miss } from './miss';
 	import type { Settings } from './settings';
 
@@ -157,7 +165,12 @@
 						ondrop={(e) => drop(e, i)}
 					>
 						{#if slots[i]}
-							<Tile morpheme={MORPHEMES[slots[i]!]} showType={settings.showTypes} showMeaning />
+							<Tile
+								morpheme={MORPHEMES[slots[i]!]}
+								meaning={meaningIn(MORPHEMES[slots[i]!], word)}
+								showType={settings.showTypes}
+								showMeaning
+							/>
 						{/if}
 					</button>
 				</li>
@@ -206,7 +219,12 @@
 					ondragstart={(e) => dragStart(e, id)}
 					onclick={() => pickTile(id)}
 				>
-					<Tile morpheme={MORPHEMES[id]} showType={settings.showTypes} showMeaning />
+					<Tile
+						morpheme={MORPHEMES[id]}
+						meaning={meaningIn(MORPHEMES[id], word)}
+						showType={settings.showTypes}
+						showMeaning
+					/>
 				</button>
 			{/if}
 		{/each}

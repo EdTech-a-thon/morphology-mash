@@ -127,6 +127,17 @@ export function meaningOf(part: Part): string {
 	return MORPHEMES[part.m].meanings[part.meaning ?? 0];
 }
 
+/**
+ * The meaning a tile shows while building this word: the one the word uses,
+ * when the morpheme has it, so -s in "reads" says what it does there. A wrong
+ * tile that shares that meaning (-es) shows it too, so the meanings never give
+ * away which spelling is right.
+ */
+export function meaningIn(m: Morpheme, word: Word): string {
+	const used = new Set(word.parts.map(meaningOf));
+	return m.meanings.find((meaning) => used.has(meaning)) ?? m.meanings[0];
+}
+
 /** A morpheme as students see it written on a tile: un-, kind, -ness. */
 export function tileLabel(m: Morpheme, showType = true): string {
 	if (!showType) return m.spelling;

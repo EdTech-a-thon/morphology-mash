@@ -20,7 +20,7 @@
 		morpheme: Morpheme;
 		/** What is written on the tile, when it differs from the morpheme's spelling. */
 		text?: string;
-		/** The meaning to show, when the word uses one other than the first. */
+		/** The meaning to show, when it is not the first one (see meaningIn). */
 		meaning?: string;
 		showType?: boolean;
 		showMeaning?: boolean;
