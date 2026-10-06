@@ -8199,5 +8199,3746 @@
 				"m": "ist"
 			}
 		]
+	},
+	{
+		"word": "atomic",
+		"grade": 7,
+		"definition": "having to do with atoms",
+		"parts": [
+			{
+				"m": "atom"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "subatomic",
+		"grade": 8,
+		"definition": "smaller than an atom, like the protons and electrons inside it",
+		"parts": [
+			{
+				"m": "sub"
+			},
+			{
+				"m": "atom"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "diatomic",
+		"grade": 8,
+		"definition": "made of two atoms joined together, like a molecule of oxygen gas",
+		"parts": [
+			{
+				"m": "di"
+			},
+			{
+				"m": "atom"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "polyatomic",
+		"grade": 8,
+		"definition": "made of many atoms joined together",
+		"parts": [
+			{
+				"m": "poly"
+			},
+			{
+				"m": "atom"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "monatomic",
+		"grade": 8,
+		"definition": "made of single atoms that are not joined to others, like helium gas",
+		"parts": [
+			{
+				"m": "mono",
+				"as": "mon"
+			},
+			{
+				"m": "atom"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "atomize",
+		"grade": 8,
+		"definition": "to break into tiny pieces or a fine spray",
+		"parts": [
+			{
+				"m": "atom"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "atomizer",
+		"grade": 8,
+		"definition": "a device that turns a liquid into a fine spray, like a perfume bottle",
+		"parts": [
+			{
+				"m": "atom"
+			},
+			{
+				"m": "ize",
+				"as": "iz"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "molecule",
+		"grade": 7,
+		"definition": "the smallest bit of a substance, made of atoms joined together",
+		"parts": [
+			{
+				"m": "mole"
+			},
+			{
+				"m": "cule"
+			}
+		]
+	},
+	{
+		"word": "biomolecule",
+		"grade": 8,
+		"definition": "a molecule made by living things, like a protein or a sugar",
+		"parts": [
+			{
+				"m": "bio"
+			},
+			{
+				"m": "mole"
+			},
+			{
+				"m": "cule"
+			}
+		]
+	},
+	{
+		"word": "macromolecule",
+		"grade": 8,
+		"definition": "a very large molecule made of many atoms, like DNA",
+		"parts": [
+			{
+				"m": "macro"
+			},
+			{
+				"m": "mole"
+			},
+			{
+				"m": "cule"
+			}
+		]
+	},
+	{
+		"word": "luminous",
+		"grade": 7,
+		"definition": "giving off light; glowing",
+		"parts": [
+			{
+				"m": "lumin"
+			},
+			{
+				"m": "ous"
+			}
+		]
+	},
+	{
+		"word": "illuminate",
+		"grade": 7,
+		"definition": "to light up",
+		"parts": [
+			{
+				"m": "in",
+				"as": "il",
+				"meaning": 1
+			},
+			{
+				"m": "lumin"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "illumination",
+		"grade": 8,
+		"definition": "light, or the act of lighting something up",
+		"parts": [
+			{
+				"m": "in",
+				"as": "il",
+				"meaning": 1
+			},
+			{
+				"m": "lumin"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "luminosity",
+		"grade": 8,
+		"definition": "how much light something gives off, like a star",
+		"parts": [
+			{
+				"m": "lumin"
+			},
+			{
+				"m": "ous",
+				"as": "os"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "neurology",
+		"grade": 8,
+		"definition": "the study of nerves and the brain",
+		"parts": [
+			{
+				"m": "neuro"
+			},
+			{
+				"m": "logy"
+			}
+		]
+	},
+	{
+		"word": "neurologist",
+		"grade": 8,
+		"definition": "a doctor who treats problems of the nerves and brain",
+		"parts": [
+			{
+				"m": "neuro"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ist"
+			}
+		]
+	},
+	{
+		"word": "neurological",
+		"grade": 8,
+		"definition": "having to do with nerves and the brain",
+		"parts": [
+			{
+				"m": "neuro"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "neural",
+		"grade": 8,
+		"definition": "having to do with nerves",
+		"parts": [
+			{
+				"m": "neuro",
+				"as": "neur"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "neurotransmitter",
+		"grade": 8,
+		"definition": "a chemical that carries messages from one nerve cell to another",
+		"parts": [
+			{
+				"m": "neuro"
+			},
+			{
+				"m": "trans"
+			},
+			{
+				"m": "mit",
+				"as": "mitt"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "evolution",
+		"grade": 7,
+		"definition": "the slow change of living things over many generations",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "volve",
+				"as": "volut"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "evolutionary",
+		"grade": 8,
+		"definition": "having to do with evolution",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "volve",
+				"as": "volut"
+			},
+			{
+				"m": "ion"
+			},
+			{
+				"m": "ary"
+			}
+		]
+	},
+	{
+		"word": "exoskeleton",
+		"grade": 7,
+		"definition": "a hard outer covering that supports and protects an animal's body, like a crab's shell",
+		"parts": [
+			{
+				"m": "exo"
+			},
+			{
+				"m": "skeleton"
+			}
+		]
+	},
+	{
+		"word": "exosphere",
+		"grade": 8,
+		"definition": "the outermost layer of air around Earth, where it fades into space",
+		"parts": [
+			{
+				"m": "exo"
+			},
+			{
+				"m": "sphere"
+			}
+		]
+	},
+	{
+		"word": "exothermic",
+		"grade": 8,
+		"definition": "giving off heat, like a burning log",
+		"parts": [
+			{
+				"m": "exo"
+			},
+			{
+				"m": "thermo",
+				"as": "therm"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "endoskeleton",
+		"grade": 7,
+		"definition": "a skeleton inside the body, like the bones of a human",
+		"parts": [
+			{
+				"m": "endo"
+			},
+			{
+				"m": "skeleton"
+			}
+		]
+	},
+	{
+		"word": "endothermic",
+		"grade": 8,
+		"definition": "taking in heat, like ice as it melts",
+		"parts": [
+			{
+				"m": "endo"
+			},
+			{
+				"m": "thermo",
+				"as": "therm"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "endoscope",
+		"grade": 8,
+		"definition": "a tool doctors use to look inside the body",
+		"parts": [
+			{
+				"m": "endo"
+			},
+			{
+				"m": "scope"
+			}
+		]
+	},
+	{
+		"word": "digraph",
+		"grade": 6,
+		"definition": "two letters that spell one sound, like sh or ph",
+		"parts": [
+			{
+				"m": "di"
+			},
+			{
+				"m": "graph"
+			}
+		]
+	},
+	{
+		"word": "dihedral",
+		"grade": 8,
+		"definition": "made by two flat surfaces that meet, like the angle between two walls",
+		"parts": [
+			{
+				"m": "di"
+			},
+			{
+				"m": "hedron",
+				"as": "hedr"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "isometric",
+		"grade": 8,
+		"definition": "having equal measurements",
+		"parts": [
+			{
+				"m": "iso"
+			},
+			{
+				"m": "meter",
+				"as": "metr"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "isotherm",
+		"grade": 8,
+		"definition": "a line on a map joining places with the same temperature",
+		"parts": [
+			{
+				"m": "iso"
+			},
+			{
+				"m": "thermo",
+				"as": "therm"
+			}
+		]
+	},
+	{
+		"word": "isothermal",
+		"grade": 8,
+		"definition": "staying at the same temperature",
+		"parts": [
+			{
+				"m": "iso"
+			},
+			{
+				"m": "thermo",
+				"as": "therm"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "macroscopic",
+		"grade": 8,
+		"definition": "large enough to be seen without a microscope",
+		"parts": [
+			{
+				"m": "macro"
+			},
+			{
+				"m": "scope",
+				"as": "scop"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "macrocosm",
+		"grade": 8,
+		"definition": "the whole universe, or any large complete system",
+		"parts": [
+			{
+				"m": "macro"
+			},
+			{
+				"m": "cosmo",
+				"as": "cosm"
+			}
+		]
+	},
+	{
+		"word": "hydrolysis",
+		"grade": 8,
+		"definition": "the breaking down of a substance by reacting with water",
+		"parts": [
+			{
+				"m": "hydro"
+			},
+			{
+				"m": "lysis"
+			}
+		]
+	},
+	{
+		"word": "photolysis",
+		"grade": 8,
+		"definition": "the breaking down of a substance by light",
+		"parts": [
+			{
+				"m": "photo"
+			},
+			{
+				"m": "lysis"
+			}
+		]
+	},
+	{
+		"word": "thermolysis",
+		"grade": 8,
+		"definition": "the breaking down of a substance by heat",
+		"parts": [
+			{
+				"m": "thermo"
+			},
+			{
+				"m": "lysis"
+			}
+		]
+	},
+	{
+		"word": "photosynthesis",
+		"grade": 7,
+		"definition": "the way plants use sunlight, water, and carbon dioxide to make their own food",
+		"parts": [
+			{
+				"m": "photo"
+			},
+			{
+				"m": "syn"
+			},
+			{
+				"m": "thesis"
+			}
+		]
+	},
+	{
+		"word": "photosynthetic",
+		"grade": 8,
+		"definition": "able to use light to make food, like green plants and algae",
+		"parts": [
+			{
+				"m": "photo"
+			},
+			{
+				"m": "syn"
+			},
+			{
+				"m": "thesis",
+				"as": "thet"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "synthesis",
+		"grade": 8,
+		"definition": "putting smaller parts together to make something new, like a cell building proteins",
+		"parts": [
+			{
+				"m": "syn"
+			},
+			{
+				"m": "thesis"
+			}
+		]
+	},
+	{
+		"word": "synthetic",
+		"grade": 7,
+		"definition": "made by people instead of found in nature, like nylon or plastic",
+		"parts": [
+			{
+				"m": "syn"
+			},
+			{
+				"m": "thesis",
+				"as": "thet"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "symmetry",
+		"grade": 6,
+		"definition": "balance in which the parts on each side of a center line match, like the wings of a butterfly",
+		"parts": [
+			{
+				"m": "syn",
+				"as": "sym"
+			},
+			{
+				"m": "meter",
+				"as": "metr"
+			},
+			{
+				"m": "y"
+			}
+		]
+	},
+	{
+		"word": "symmetrical",
+		"grade": 7,
+		"definition": "having matching halves on each side of a center line, like a human face",
+		"parts": [
+			{
+				"m": "syn",
+				"as": "sym"
+			},
+			{
+				"m": "meter",
+				"as": "metr"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "asymmetry",
+		"grade": 8,
+		"definition": "a lack of balance where the two sides do not match, like the claws of a fiddler crab",
+		"parts": [
+			{
+				"m": "a"
+			},
+			{
+				"m": "syn",
+				"as": "sym"
+			},
+			{
+				"m": "meter",
+				"as": "metr"
+			},
+			{
+				"m": "y"
+			}
+		]
+	},
+	{
+		"word": "asymmetrical",
+		"grade": 8,
+		"definition": "having sides that do not match each other, like the lumpy shape of a sponge",
+		"parts": [
+			{
+				"m": "a"
+			},
+			{
+				"m": "syn",
+				"as": "sym"
+			},
+			{
+				"m": "meter",
+				"as": "metr"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "symbiotic",
+		"grade": 8,
+		"definition": "describing two different kinds of living things that live closely together, like clownfish and sea anemones",
+		"parts": [
+			{
+				"m": "syn",
+				"as": "sym"
+			},
+			{
+				"m": "bio",
+				"as": "biot"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "biotic",
+		"grade": 7,
+		"definition": "living or once living, like the plants, animals, and fungi in an ecosystem",
+		"parts": [
+			{
+				"m": "bio",
+				"as": "biot"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "abiotic",
+		"grade": 7,
+		"definition": "not living, like the sunlight, water, air, and rocks in an ecosystem",
+		"parts": [
+			{
+				"m": "a"
+			},
+			{
+				"m": "bio",
+				"as": "biot"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "antibiotic",
+		"grade": 7,
+		"definition": "a medicine that kills bacteria or stops them from growing",
+		"parts": [
+			{
+				"m": "anti"
+			},
+			{
+				"m": "bio",
+				"as": "biot"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "cytoplasm",
+		"grade": 7,
+		"definition": "the jelly-like material that fills a cell around its nucleus",
+		"parts": [
+			{
+				"m": "cyto"
+			},
+			{
+				"m": "plasm"
+			}
+		]
+	},
+	{
+		"word": "cytoplasmic",
+		"grade": 8,
+		"definition": "having to do with the jelly-like filling of a cell",
+		"parts": [
+			{
+				"m": "cyto"
+			},
+			{
+				"m": "plasm"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "endoplasmic",
+		"grade": 8,
+		"definition": "found inside a cell's jelly-like filling, like the folded network of tubes that carries proteins through a cell",
+		"parts": [
+			{
+				"m": "endo"
+			},
+			{
+				"m": "plasm"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "cytoskeleton",
+		"grade": 8,
+		"definition": "a network of tiny fibers that gives a cell its shape and support",
+		"parts": [
+			{
+				"m": "cyto"
+			},
+			{
+				"m": "skeleton"
+			}
+		]
+	},
+	{
+		"word": "cytology",
+		"grade": 8,
+		"definition": "the study of cells, their parts, and how they work",
+		"parts": [
+			{
+				"m": "cyto"
+			},
+			{
+				"m": "logy"
+			}
+		]
+	},
+	{
+		"word": "cellular",
+		"grade": 7,
+		"definition": "having to do with cells or made of cells",
+		"parts": [
+			{
+				"m": "cell",
+				"as": "cellul"
+			},
+			{
+				"m": "ar"
+			}
+		]
+	},
+	{
+		"word": "unicellular",
+		"grade": 7,
+		"definition": "made of just one cell, like a bacterium",
+		"parts": [
+			{
+				"m": "uni"
+			},
+			{
+				"m": "cell",
+				"as": "cellul"
+			},
+			{
+				"m": "ar"
+			}
+		]
+	},
+	{
+		"word": "multicellular",
+		"grade": 7,
+		"definition": "made of many cells, like a tree or a person",
+		"parts": [
+			{
+				"m": "multi"
+			},
+			{
+				"m": "cell",
+				"as": "cellul"
+			},
+			{
+				"m": "ar"
+			}
+		]
+	},
+	{
+		"word": "molecular",
+		"grade": 8,
+		"definition": "having to do with molecules, the tiny groups of atoms joined together",
+		"parts": [
+			{
+				"m": "mole"
+			},
+			{
+				"m": "cule",
+				"as": "cul"
+			},
+			{
+				"m": "ar"
+			}
+		]
+	},
+	{
+		"word": "herbivore",
+		"grade": 5,
+		"definition": "an animal that eats only plants, like a deer or a rabbit",
+		"parts": [
+			{
+				"m": "herbi"
+			},
+			{
+				"m": "vore"
+			}
+		]
+	},
+	{
+		"word": "carnivore",
+		"grade": 5,
+		"definition": "an animal that eats other animals, like a lion or a shark",
+		"parts": [
+			{
+				"m": "carni"
+			},
+			{
+				"m": "vore"
+			}
+		]
+	},
+	{
+		"word": "omnivore",
+		"grade": 5,
+		"definition": "an animal that eats both plants and animals, like a bear or a raccoon",
+		"parts": [
+			{
+				"m": "omni"
+			},
+			{
+				"m": "vore"
+			}
+		]
+	},
+	{
+		"word": "herbivorous",
+		"grade": 7,
+		"definition": "feeding only on plants, like a cow",
+		"parts": [
+			{
+				"m": "herbi"
+			},
+			{
+				"m": "vore",
+				"as": "vor"
+			},
+			{
+				"m": "ous"
+			}
+		]
+	},
+	{
+		"word": "carnivorous",
+		"grade": 7,
+		"definition": "feeding on animals, like a Venus flytrap that traps and digests insects",
+		"parts": [
+			{
+				"m": "carni"
+			},
+			{
+				"m": "vore",
+				"as": "vor"
+			},
+			{
+				"m": "ous"
+			}
+		]
+	},
+	{
+		"word": "omnivorous",
+		"grade": 7,
+		"definition": "feeding on all kinds of food, both plants and animals, like a human",
+		"parts": [
+			{
+				"m": "omni"
+			},
+			{
+				"m": "vore",
+				"as": "vor"
+			},
+			{
+				"m": "ous"
+			}
+		]
+	},
+	{
+		"word": "insectivore",
+		"grade": 7,
+		"definition": "an animal that eats mainly insects, like an anteater or many bats",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "sect",
+				"as": "secti"
+			},
+			{
+				"m": "vore"
+			}
+		]
+	},
+	{
+		"word": "insect",
+		"grade": 5,
+		"definition": "a small animal with six legs and a body in three parts, like an ant or a bee",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "sect"
+			}
+		]
+	},
+	{
+		"word": "herbal",
+		"grade": 6,
+		"definition": "made from plants used for flavor or medicine, like mint tea",
+		"parts": [
+			{
+				"m": "herbi",
+				"as": "herb"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "autotroph",
+		"grade": 7,
+		"definition": "a living thing that makes its own food, like a plant using sunlight",
+		"parts": [
+			{
+				"m": "auto"
+			},
+			{
+				"m": "troph"
+			}
+		]
+	},
+	{
+		"word": "autotrophic",
+		"grade": 8,
+		"definition": "able to make its own food from sunlight or chemicals instead of eating",
+		"parts": [
+			{
+				"m": "auto"
+			},
+			{
+				"m": "troph"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "trophic",
+		"grade": 8,
+		"definition": "having to do with feeding, as in the levels of a food chain that show what eats what",
+		"parts": [
+			{
+				"m": "troph"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "digest",
+		"grade": 5,
+		"definition": "to break down food in the body so it can be used",
+		"parts": [
+			{
+				"m": "dis",
+				"as": "di",
+				"meaning": 1
+			},
+			{
+				"m": "gest"
+			}
+		]
+	},
+	{
+		"word": "digestion",
+		"grade": 6,
+		"definition": "the body's process of breaking food into tiny pieces it can absorb",
+		"parts": [
+			{
+				"m": "dis",
+				"as": "di",
+				"meaning": 1
+			},
+			{
+				"m": "gest"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "digestive",
+		"grade": 6,
+		"definition": "having to do with breaking down food, like the stomach and intestines",
+		"parts": [
+			{
+				"m": "dis",
+				"as": "di",
+				"meaning": 1
+			},
+			{
+				"m": "gest"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "indigestion",
+		"grade": 7,
+		"definition": "an upset stomach caused by trouble breaking down food",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 0
+			},
+			{
+				"m": "dis",
+				"as": "di",
+				"meaning": 1
+			},
+			{
+				"m": "gest"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "ingest",
+		"grade": 7,
+		"definition": "to take food or drink into the body by swallowing",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "gest"
+			}
+		]
+	},
+	{
+		"word": "congestion",
+		"grade": 7,
+		"definition": "a blocked-up feeling from too much mucus, like a stuffy nose during a cold",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "gest"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "respiration",
+		"grade": 7,
+		"definition": "breathing, or the way cells use oxygen to release energy from food",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "spir"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "respire",
+		"grade": 8,
+		"definition": "to breathe in and out",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "spir",
+				"as": "spire"
+			}
+		]
+	},
+	{
+		"word": "transpiration",
+		"grade": 8,
+		"definition": "the loss of water vapor through tiny openings in a plant's leaves",
+		"parts": [
+			{
+				"m": "trans",
+				"as": "tran"
+			},
+			{
+				"m": "spir"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "mutate",
+		"grade": 8,
+		"definition": "to go through a change in genes that can create a new trait",
+		"parts": [
+			{
+				"m": "mut"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "mutation",
+		"grade": 7,
+		"definition": "a change in a living thing's DNA that can be passed on to its offspring",
+		"parts": [
+			{
+				"m": "mut"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "mutant",
+		"grade": 8,
+		"definition": "a living thing with a changed gene that gives it a new trait",
+		"parts": [
+			{
+				"m": "mut"
+			},
+			{
+				"m": "ant"
+			}
+		]
+	},
+	{
+		"word": "producer",
+		"grade": 6,
+		"definition": "in a food chain, a living thing like grass that makes the food other living things eat",
+		"parts": [
+			{
+				"m": "pro"
+			},
+			{
+				"m": "duct",
+				"as": "duc"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "decompose",
+		"grade": 6,
+		"definition": "to rot and break down into simpler materials, like old leaves on a forest floor",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "pose"
+			}
+		]
+	},
+	{
+		"word": "decomposer",
+		"grade": 6,
+		"definition": "a living thing that breaks down dead plants and animals, like a mushroom or some kinds of bacteria",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "pose",
+				"as": "pos"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "reproduce",
+		"grade": 6,
+		"definition": "to make more of the same kind of living thing, like a cat having kittens",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "pro"
+			},
+			{
+				"m": "duct",
+				"as": "duce"
+			}
+		]
+	},
+	{
+		"word": "reproduction",
+		"grade": 7,
+		"definition": "the process by which living things make offspring",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "pro"
+			},
+			{
+				"m": "duct"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "reproductive",
+		"grade": 8,
+		"definition": "having to do with making offspring, like the parts of a flower that make seeds",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "pro"
+			},
+			{
+				"m": "duct"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "endotherm",
+		"grade": 8,
+		"definition": "an animal that keeps its body warm from the inside, like a bird or a dog",
+		"parts": [
+			{
+				"m": "endo"
+			},
+			{
+				"m": "thermo",
+				"as": "therm"
+			}
+		]
+	},
+	{
+		"word": "dehydration",
+		"grade": 6,
+		"definition": "a dangerous loss of too much water from the body",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "hydro",
+				"as": "hydr"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "biologist",
+		"grade": 6,
+		"definition": "a scientist who studies living things",
+		"parts": [
+			{
+				"m": "bio"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ist"
+			}
+		]
+	},
+	{
+		"word": "biological",
+		"grade": 7,
+		"definition": "having to do with living things and how they work",
+		"parts": [
+			{
+				"m": "bio"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "seismic",
+		"grade": 7,
+		"definition": "having to do with earthquakes or the shaking of the ground, like the waves an earthquake sends through rock",
+		"parts": [
+			{
+				"m": "seismo",
+				"as": "seism"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "seismograph",
+		"grade": 7,
+		"definition": "a machine that records how hard the ground shakes during an earthquake, often as a wavy line",
+		"parts": [
+			{
+				"m": "seismo"
+			},
+			{
+				"m": "graph"
+			}
+		]
+	},
+	{
+		"word": "seismology",
+		"grade": 8,
+		"definition": "the study of earthquakes and the waves they send through the earth",
+		"parts": [
+			{
+				"m": "seismo"
+			},
+			{
+				"m": "logy"
+			}
+		]
+	},
+	{
+		"word": "seismologist",
+		"grade": 8,
+		"definition": "a scientist who studies earthquakes",
+		"parts": [
+			{
+				"m": "seismo"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ist"
+			}
+		]
+	},
+	{
+		"word": "lithosphere",
+		"grade": 7,
+		"definition": "Earth's hard, rocky outer layer, made of the crust and the top of the mantle and broken into plates",
+		"parts": [
+			{
+				"m": "litho"
+			},
+			{
+				"m": "sphere"
+			}
+		]
+	},
+	{
+		"word": "monolith",
+		"grade": 8,
+		"definition": "a single huge block of stone, like a giant standing rock",
+		"parts": [
+			{
+				"m": "mono"
+			},
+			{
+				"m": "litho",
+				"as": "lith"
+			}
+		]
+	},
+	{
+		"word": "lithify",
+		"grade": 8,
+		"definition": "to turn loose sand, mud, or pebbles into solid rock by pressing and cementing them together",
+		"parts": [
+			{
+				"m": "litho",
+				"as": "lithi"
+			},
+			{
+				"m": "fy"
+			}
+		]
+	},
+	{
+		"word": "stratosphere",
+		"grade": 7,
+		"definition": "the layer of air just above the one where weather happens, home to the ozone layer",
+		"parts": [
+			{
+				"m": "strato"
+			},
+			{
+				"m": "sphere"
+			}
+		]
+	},
+	{
+		"word": "stratify",
+		"grade": 8,
+		"definition": "to arrange in layers, one on top of another",
+		"parts": [
+			{
+				"m": "strato",
+				"as": "strati"
+			},
+			{
+				"m": "fy"
+			}
+		]
+	},
+	{
+		"word": "stratified",
+		"grade": 8,
+		"definition": "arranged in layers, like the bands of rock in a canyon wall",
+		"parts": [
+			{
+				"m": "strato",
+				"as": "strati"
+			},
+			{
+				"m": "fy",
+				"as": "fi"
+			},
+			{
+				"m": "ed"
+			}
+		]
+	},
+	{
+		"word": "stratification",
+		"grade": 8,
+		"definition": "the forming of layers, like layers of rock or of warm and cold water in a lake",
+		"parts": [
+			{
+				"m": "strato",
+				"as": "strati"
+			},
+			{
+				"m": "fy",
+				"as": "fic"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "troposphere",
+		"grade": 7,
+		"definition": "the lowest layer of air around Earth, where we live and almost all weather happens",
+		"parts": [
+			{
+				"m": "tropo"
+			},
+			{
+				"m": "sphere"
+			}
+		]
+	},
+	{
+		"word": "tropic",
+		"grade": 7,
+		"definition": "either of two imaginary lines around Earth, north and south of the equator, that mark the farthest places from it where the noon sun can be straight overhead",
+		"parts": [
+			{
+				"m": "tropo",
+				"as": "trop"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "tropical",
+		"grade": 5,
+		"definition": "having to do with the hot, rainy places near the equator, like a rainforest full of parrots",
+		"parts": [
+			{
+				"m": "tropo",
+				"as": "trop"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "atmosphere",
+		"grade": 5,
+		"definition": "the layer of gases that surrounds Earth",
+		"parts": [
+			{
+				"m": "atmo"
+			},
+			{
+				"m": "sphere"
+			}
+		]
+	},
+	{
+		"word": "atmospheric",
+		"grade": 7,
+		"definition": "having to do with the air around Earth, like the pressure of the air pushing down on us",
+		"parts": [
+			{
+				"m": "atmo"
+			},
+			{
+				"m": "sphere",
+				"as": "spher"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "hemisphere",
+		"grade": 5,
+		"definition": "half of Earth, like the northern half above the equator",
+		"parts": [
+			{
+				"m": "hemi"
+			},
+			{
+				"m": "sphere"
+			}
+		]
+	},
+	{
+		"word": "hemispheric",
+		"grade": 8,
+		"definition": "having to do with one half of Earth or of a ball shape",
+		"parts": [
+			{
+				"m": "hemi"
+			},
+			{
+				"m": "sphere",
+				"as": "spher"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "meteorology",
+		"grade": 7,
+		"definition": "the study of the air and weather, used to forecast what the weather will do",
+		"parts": [
+			{
+				"m": "meteoro"
+			},
+			{
+				"m": "logy"
+			}
+		]
+	},
+	{
+		"word": "meteorologist",
+		"grade": 6,
+		"definition": "a scientist who studies and forecasts the weather",
+		"parts": [
+			{
+				"m": "meteoro"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ist"
+			}
+		]
+	},
+	{
+		"word": "meteorological",
+		"grade": 8,
+		"definition": "having to do with weather and the science of predicting it",
+		"parts": [
+			{
+				"m": "meteoro"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "meteoric",
+		"grade": 8,
+		"definition": "having to do with meteors, or as sudden and bright as a shooting star",
+		"parts": [
+			{
+				"m": "meteoro",
+				"as": "meteor"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "meteoroid",
+		"grade": 7,
+		"definition": "a small chunk of rock or metal traveling through space that becomes a shooting star if it enters Earth's air",
+		"parts": [
+			{
+				"m": "meteoro",
+				"as": "meteor"
+			},
+			{
+				"m": "oid"
+			}
+		]
+	},
+	{
+		"word": "erode",
+		"grade": 6,
+		"definition": "to slowly wear away land or rock, like a river carving out a canyon",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "rode"
+			}
+		]
+	},
+	{
+		"word": "erosion",
+		"grade": 6,
+		"definition": "the carrying away of soil and rock by water, wind, or ice",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "rode",
+				"as": "ros"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "corrode",
+		"grade": 7,
+		"definition": "to slowly eat away metal, like rust eating an old bike chain",
+		"parts": [
+			{
+				"m": "con",
+				"as": "cor"
+			},
+			{
+				"m": "rode"
+			}
+		]
+	},
+	{
+		"word": "corrosion",
+		"grade": 8,
+		"definition": "the slow eating away of metal by chemicals, air, or water, like rust",
+		"parts": [
+			{
+				"m": "con",
+				"as": "cor"
+			},
+			{
+				"m": "rode",
+				"as": "ros"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "rodent",
+		"grade": 5,
+		"definition": "an animal with long front teeth that it uses to gnaw, like a mouse, rat, or squirrel",
+		"parts": [
+			{
+				"m": "rode",
+				"as": "rod"
+			},
+			{
+				"m": "ent"
+			}
+		]
+	},
+	{
+		"word": "sediment",
+		"grade": 5,
+		"definition": "sand, mud, and bits of rock that are carried by water or wind and settle somewhere new",
+		"parts": [
+			{
+				"m": "sed",
+				"as": "sedi"
+			},
+			{
+				"m": "ment"
+			}
+		]
+	},
+	{
+		"word": "sedimentary",
+		"grade": 6,
+		"definition": "made of layers of sand, mud, or shells pressed together into rock, like sandstone",
+		"parts": [
+			{
+				"m": "sed",
+				"as": "sedi"
+			},
+			{
+				"m": "ment"
+			},
+			{
+				"m": "ary"
+			}
+		]
+	},
+	{
+		"word": "sedimentation",
+		"grade": 8,
+		"definition": "the settling of bits of rock and soil to the bottom of water, where they pile up in layers",
+		"parts": [
+			{
+				"m": "sed",
+				"as": "sedi"
+			},
+			{
+				"m": "ment"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "stellar",
+		"grade": 7,
+		"definition": "having to do with stars",
+		"parts": [
+			{
+				"m": "stell"
+			},
+			{
+				"m": "ar"
+			}
+		]
+	},
+	{
+		"word": "interstellar",
+		"grade": 7,
+		"definition": "between the stars, like the empty space between one star and the next",
+		"parts": [
+			{
+				"m": "inter"
+			},
+			{
+				"m": "stell"
+			},
+			{
+				"m": "ar"
+			}
+		]
+	},
+	{
+		"word": "constellation",
+		"grade": 5,
+		"definition": "a group of stars that forms a pattern in the night sky, like Orion",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "stell"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "circular",
+		"grade": 5,
+		"definition": "shaped like a circle; round",
+		"parts": [
+			{
+				"m": "circle",
+				"as": "circul"
+			},
+			{
+				"m": "ar"
+			}
+		]
+	},
+	{
+		"word": "astronomy",
+		"grade": 6,
+		"definition": "the science of stars, planets, and everything else in space",
+		"parts": [
+			{
+				"m": "astro"
+			},
+			{
+				"m": "nomy"
+			}
+		]
+	},
+	{
+		"word": "astronomer",
+		"grade": 6,
+		"definition": "a scientist who studies stars, planets, and space",
+		"parts": [
+			{
+				"m": "astro"
+			},
+			{
+				"m": "nomy",
+				"as": "nom"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "astronomical",
+		"grade": 7,
+		"definition": "having to do with stars and space, or so huge it is hard to imagine",
+		"parts": [
+			{
+				"m": "astro"
+			},
+			{
+				"m": "nomy",
+				"as": "nom"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "asteroid",
+		"grade": 5,
+		"definition": "a rocky object, much smaller than a planet, that travels around the sun",
+		"parts": [
+			{
+				"m": "astro",
+				"as": "aster"
+			},
+			{
+				"m": "oid"
+			}
+		]
+	},
+	{
+		"word": "spheroid",
+		"grade": 8,
+		"definition": "a shape that is almost a ball but a little squashed or stretched, like Earth",
+		"parts": [
+			{
+				"m": "sphere",
+				"as": "spher"
+			},
+			{
+				"m": "oid"
+			}
+		]
+	},
+	{
+		"word": "planetary",
+		"grade": 6,
+		"definition": "having to do with planets",
+		"parts": [
+			{
+				"m": "planet"
+			},
+			{
+				"m": "ary"
+			}
+		]
+	},
+	{
+		"word": "interplanetary",
+		"grade": 8,
+		"definition": "between planets, like a spacecraft's trip from Earth to Mars",
+		"parts": [
+			{
+				"m": "inter"
+			},
+			{
+				"m": "planet"
+			},
+			{
+				"m": "ary"
+			}
+		]
+	},
+	{
+		"word": "exoplanet",
+		"grade": 8,
+		"definition": "a planet that travels around a star other than our sun",
+		"parts": [
+			{
+				"m": "exo"
+			},
+			{
+				"m": "planet"
+			}
+		]
+	},
+	{
+		"word": "volcanic",
+		"grade": 5,
+		"definition": "having to do with volcanoes, like rock formed from cooled lava",
+		"parts": [
+			{
+				"m": "volcano",
+				"as": "volcan"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "volcanology",
+		"grade": 8,
+		"definition": "the study of volcanoes and how they erupt",
+		"parts": [
+			{
+				"m": "volcano"
+			},
+			{
+				"m": "logy"
+			}
+		]
+	},
+	{
+		"word": "volcanologist",
+		"grade": 8,
+		"definition": "a scientist who studies volcanoes",
+		"parts": [
+			{
+				"m": "volcano"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ist"
+			}
+		]
+	},
+	{
+		"word": "geologist",
+		"grade": 6,
+		"definition": "a scientist who studies rocks and how the earth formed and changes",
+		"parts": [
+			{
+				"m": "geo"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ist"
+			}
+		]
+	},
+	{
+		"word": "geological",
+		"grade": 7,
+		"definition": "having to do with the earth's rocks and how they formed, like a map that shows rock layers",
+		"parts": [
+			{
+				"m": "geo"
+			},
+			{
+				"m": "logy",
+				"as": "log"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "hydrothermal",
+		"grade": 8,
+		"definition": "having to do with very hot water heated deep in the earth, like at a hot spring or a deep-sea vent",
+		"parts": [
+			{
+				"m": "hydro"
+			},
+			{
+				"m": "thermo",
+				"as": "therm"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "electric",
+		"grade": 5,
+		"definition": "run by a flow of charged particles through wires, like a lamp you plug in",
+		"parts": [
+			{
+				"m": "electro",
+				"as": "electr"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "electrical",
+		"grade": 6,
+		"definition": "having to do with the flow of power through wires, like the outlets and switches in a building",
+		"parts": [
+			{
+				"m": "electro",
+				"as": "electr"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "electricity",
+		"grade": 5,
+		"definition": "energy carried by moving charged particles, used to run lights and machines",
+		"parts": [
+			{
+				"m": "electro",
+				"as": "electr"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "electron",
+		"grade": 7,
+		"definition": "a tiny particle with a negative charge that moves around the center of an atom",
+		"parts": [
+			{
+				"m": "electro",
+				"as": "electr"
+			},
+			{
+				"m": "on"
+			}
+		]
+	},
+	{
+		"word": "electronic",
+		"grade": 7,
+		"definition": "run by tiny currents flowing through chips and circuits, like a phone or a computer",
+		"parts": [
+			{
+				"m": "electro",
+				"as": "electr"
+			},
+			{
+				"m": "on"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "electromagnet",
+		"grade": 7,
+		"definition": "a magnet made by sending a current through a coil of wire, so it can be switched on and off",
+		"parts": [
+			{
+				"m": "electro"
+			},
+			{
+				"m": "magnet"
+			}
+		]
+	},
+	{
+		"word": "electromagnetic",
+		"grade": 8,
+		"definition": "having to do with electric and magnetic forces working together, like the waves that carry light and radio signals",
+		"parts": [
+			{
+				"m": "electro"
+			},
+			{
+				"m": "magnet"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "electrolysis",
+		"grade": 8,
+		"definition": "breaking down a substance by passing a current through it, like splitting water into hydrogen and oxygen",
+		"parts": [
+			{
+				"m": "electro"
+			},
+			{
+				"m": "lysis"
+			}
+		]
+	},
+	{
+		"word": "hydroelectric",
+		"grade": 7,
+		"definition": "having to do with electricity made by moving water, like the power plant at a dam",
+		"parts": [
+			{
+				"m": "hydro"
+			},
+			{
+				"m": "electro",
+				"as": "electr"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "magnetic",
+		"grade": 5,
+		"definition": "able to pull on iron and steel, like a compass needle",
+		"parts": [
+			{
+				"m": "magnet"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "magnetize",
+		"grade": 7,
+		"definition": "to make a piece of metal able to pull on iron, like rubbing a needle with a magnet",
+		"parts": [
+			{
+				"m": "magnet"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "demagnetize",
+		"grade": 8,
+		"definition": "to take away a piece of metal's ability to pull on iron",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "magnet"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "nonmagnetic",
+		"grade": 6,
+		"definition": "not pulled by a magnet, like wood, plastic or aluminum foil",
+		"parts": [
+			{
+				"m": "non"
+			},
+			{
+				"m": "magnet"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "energy",
+		"grade": 5,
+		"definition": "the ability to do work or cause change, like the power stored in food or a battery",
+		"parts": [
+			{
+				"m": "en"
+			},
+			{
+				"m": "erg"
+			},
+			{
+				"m": "y"
+			}
+		]
+	},
+	{
+		"word": "energize",
+		"grade": 7,
+		"definition": "to fill with power so it is ready to work or move",
+		"parts": [
+			{
+				"m": "en"
+			},
+			{
+				"m": "erg"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "gravity",
+		"grade": 5,
+		"definition": "the force that pulls objects toward each other, which makes a dropped ball fall to the ground",
+		"parts": [
+			{
+				"m": "grav"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "gravitational",
+		"grade": 8,
+		"definition": "having to do with the pull objects have on each other, like the pull that keeps the moon circling Earth",
+		"parts": [
+			{
+				"m": "grav"
+			},
+			{
+				"m": "ity",
+				"as": "it"
+			},
+			{
+				"m": "ation"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "microgravity",
+		"grade": 8,
+		"definition": "the condition in orbit where things seem almost weightless and float, like astronauts in a space station",
+		"parts": [
+			{
+				"m": "micro"
+			},
+			{
+				"m": "grav"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "density",
+		"grade": 6,
+		"definition": "how much mass is packed into a space, which is why a rock sinks and a cork floats",
+		"parts": [
+			{
+				"m": "dense",
+				"as": "dens"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "condense",
+		"grade": 6,
+		"definition": "to change from a gas into a liquid, like steam turning into water drops on a cold mirror",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "dense"
+			}
+		]
+	},
+	{
+		"word": "condensation",
+		"grade": 6,
+		"definition": "the change of a gas into a liquid as it cools, like the drops that form on the outside of a cold glass",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "dense",
+				"as": "dens"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "evaporate",
+		"grade": 6,
+		"definition": "to change from a liquid into a gas, like a puddle drying up in the sun",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "vapor"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "evaporation",
+		"grade": 6,
+		"definition": "the change of a liquid into a gas, as when the sun warms oceans and lakes in the water cycle",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "vapor"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "vaporize",
+		"grade": 7,
+		"definition": "to turn quickly into a gas, like water drops sizzling on a hot pan",
+		"parts": [
+			{
+				"m": "vapor"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "radiate",
+		"grade": 7,
+		"definition": "to spread heat or light out in all directions from a center, like warmth from a campfire",
+		"parts": [
+			{
+				"m": "radi"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "radiation",
+		"grade": 7,
+		"definition": "energy that travels out as waves or tiny particles, like light, X-rays and heat from the sun",
+		"parts": [
+			{
+				"m": "radi"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "radiator",
+		"grade": 7,
+		"definition": "a metal heater that sends warmth out into a room, or the part that keeps a car's engine cool",
+		"parts": [
+			{
+				"m": "radi"
+			},
+			{
+				"m": "ate",
+				"as": "at"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "radioactive",
+		"grade": 8,
+		"definition": "giving off energy as the centers of its atoms break apart, like uranium",
+		"parts": [
+			{
+				"m": "radi",
+				"as": "radio"
+			},
+			{
+				"m": "act"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "radioactivity",
+		"grade": 8,
+		"definition": "the energy given off when the centers of atoms break apart, which a Geiger counter can measure",
+		"parts": [
+			{
+				"m": "radi",
+				"as": "radio"
+			},
+			{
+				"m": "act"
+			},
+			{
+				"m": "ive",
+				"as": "iv"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "neutron",
+		"grade": 7,
+		"definition": "a tiny particle with no electric charge, found in the center of an atom",
+		"parts": [
+			{
+				"m": "neutr"
+			},
+			{
+				"m": "on"
+			}
+		]
+	},
+	{
+		"word": "photon",
+		"grade": 8,
+		"definition": "a tiny packet of light energy",
+		"parts": [
+			{
+				"m": "photo",
+				"as": "phot"
+			},
+			{
+				"m": "on"
+			}
+		]
+	},
+	{
+		"word": "neutral",
+		"grade": 6,
+		"definition": "in science, having no electric charge, or being neither an acid nor a base, like pure water",
+		"parts": [
+			{
+				"m": "neutr"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "neutralize",
+		"grade": 8,
+		"definition": "to cancel out an acid or a base, the way an antacid calms an upset stomach",
+		"parts": [
+			{
+				"m": "neutr"
+			},
+			{
+				"m": "al"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "oxide",
+		"grade": 7,
+		"definition": "a compound of oxygen and another element, like the rust on old iron",
+		"parts": [
+			{
+				"m": "ox"
+			},
+			{
+				"m": "ide"
+			}
+		]
+	},
+	{
+		"word": "dioxide",
+		"grade": 7,
+		"definition": "a compound with two oxygen atoms in each molecule, like the gas we breathe out",
+		"parts": [
+			{
+				"m": "di"
+			},
+			{
+				"m": "ox"
+			},
+			{
+				"m": "ide"
+			}
+		]
+	},
+	{
+		"word": "monoxide",
+		"grade": 8,
+		"definition": "a compound with one oxygen atom in each molecule, like the dangerous gas in car exhaust",
+		"parts": [
+			{
+				"m": "mono",
+				"as": "mon"
+			},
+			{
+				"m": "ox"
+			},
+			{
+				"m": "ide"
+			}
+		]
+	},
+	{
+		"word": "oxidize",
+		"grade": 8,
+		"definition": "to combine with oxygen, the way iron does when it rusts",
+		"parts": [
+			{
+				"m": "ox"
+			},
+			{
+				"m": "ide",
+				"as": "id"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "oxidation",
+		"grade": 8,
+		"definition": "a chemical change in which a substance combines with oxygen, like burning or rusting",
+		"parts": [
+			{
+				"m": "ox"
+			},
+			{
+				"m": "ide",
+				"as": "id"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "chemical",
+		"grade": 5,
+		"definition": "a pure substance, like salt, water or baking soda, especially one made or used in a lab",
+		"parts": [
+			{
+				"m": "chem"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "chemist",
+		"grade": 6,
+		"definition": "a scientist who studies what substances are made of and how they change",
+		"parts": [
+			{
+				"m": "chem"
+			},
+			{
+				"m": "ist"
+			}
+		]
+	},
+	{
+		"word": "chemically",
+		"grade": 8,
+		"definition": "in a way that has to do with what substances are made of and how they change, as when wood burns to ash",
+		"parts": [
+			{
+				"m": "chem"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			},
+			{
+				"m": "ly",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "biochemical",
+		"grade": 8,
+		"definition": "having to do with the substances and reactions inside living things, like the ones that digest food",
+		"parts": [
+			{
+				"m": "bio"
+			},
+			{
+				"m": "chem"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "insulate",
+		"grade": 6,
+		"definition": "to wrap or cover something to stop heat, sound or electricity from passing through",
+		"parts": [
+			{
+				"m": "insul"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "insulation",
+		"grade": 6,
+		"definition": "material that keeps heat from passing in or out, like the fluffy layer inside a house's walls",
+		"parts": [
+			{
+				"m": "insul"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "insulator",
+		"grade": 6,
+		"definition": "a material that blocks heat or electricity, like the rubber coating on a wire",
+		"parts": [
+			{
+				"m": "insul"
+			},
+			{
+				"m": "ate",
+				"as": "at"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "fusion",
+		"grade": 8,
+		"definition": "the joining of the centers of small atoms into bigger ones, which gives off the huge energy that powers the sun",
+		"parts": [
+			{
+				"m": "fuse",
+				"as": "fus"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "diffuse",
+		"grade": 7,
+		"definition": "to spread out through a space, like the smell of baking bread through a house",
+		"parts": [
+			{
+				"m": "dis",
+				"meaning": 1,
+				"as": "dif"
+			},
+			{
+				"m": "fuse"
+			}
+		]
+	},
+	{
+		"word": "diffusion",
+		"grade": 7,
+		"definition": "the spreading of particles from a crowded area to a less crowded one, like food coloring through water",
+		"parts": [
+			{
+				"m": "dis",
+				"meaning": 1,
+				"as": "dif"
+			},
+			{
+				"m": "fuse",
+				"as": "fus"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "confuse",
+		"grade": 5,
+		"definition": "to mix up someone's thinking so they are not sure what is right",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "fuse"
+			}
+		]
+	},
+	{
+		"word": "transfusion",
+		"grade": 7,
+		"definition": "a treatment that sends donated blood into a patient's body through a tube",
+		"parts": [
+			{
+				"m": "trans"
+			},
+			{
+				"m": "fuse",
+				"as": "fus"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "hypothesis",
+		"grade": 5,
+		"definition": "an idea that explains something and can be tested with an experiment, like \"plants grow taller with more light\"",
+		"parts": [
+			{
+				"m": "hypo"
+			},
+			{
+				"m": "thesis"
+			}
+		]
+	},
+	{
+		"word": "hypothesize",
+		"grade": 6,
+		"definition": "to come up with a testable idea that might explain something",
+		"parts": [
+			{
+				"m": "hypo"
+			},
+			{
+				"m": "thesis",
+				"as": "thes"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "hypothetical",
+		"grade": 7,
+		"definition": "based on an imagined situation instead of a real one, like a \"what if\" question",
+		"parts": [
+			{
+				"m": "hypo"
+			},
+			{
+				"m": "thesis",
+				"as": "thet"
+			},
+			{
+				"m": "ic"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "synthesize",
+		"grade": 8,
+		"definition": "to put parts or substances together to make something new",
+		"parts": [
+			{
+				"m": "syn"
+			},
+			{
+				"m": "thesis",
+				"as": "thes"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "synchronize",
+		"grade": 8,
+		"definition": "to make things happen at exactly the same time, like setting two stopwatches to match",
+		"parts": [
+			{
+				"m": "syn"
+			},
+			{
+				"m": "chrono",
+				"as": "chron"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "amorphous",
+		"grade": 8,
+		"definition": "having no clear or fixed shape, like a blob of slime",
+		"parts": [
+			{
+				"m": "a"
+			},
+			{
+				"m": "morpho",
+				"as": "morph"
+			},
+			{
+				"m": "ous"
+			}
+		]
+	},
+	{
+		"word": "morphology",
+		"grade": 8,
+		"definition": "the study of the shapes and parts of living things, or of how words are built from smaller parts",
+		"parts": [
+			{
+				"m": "morpho"
+			},
+			{
+				"m": "logy"
+			}
+		]
+	},
+	{
+		"word": "anthropomorphic",
+		"grade": 8,
+		"definition": "having human traits or feelings given to an animal or object, like a cartoon dog that talks",
+		"parts": [
+			{
+				"m": "anthropo"
+			},
+			{
+				"m": "morpho",
+				"as": "morph"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "diameter",
+		"grade": 6,
+		"definition": "the length of a straight line through the center of a circle, from one side to the other",
+		"parts": [
+			{
+				"m": "dia"
+			},
+			{
+				"m": "meter"
+			}
+		]
+	},
+	{
+		"word": "diagram",
+		"grade": 5,
+		"definition": "a drawing with labels that shows the parts of something or how it works",
+		"parts": [
+			{
+				"m": "dia"
+			},
+			{
+				"m": "gram",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "diagonal",
+		"grade": 6,
+		"definition": "a slanted line that goes from one corner to the opposite corner",
+		"parts": [
+			{
+				"m": "dia"
+			},
+			{
+				"m": "gon"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "nanometer",
+		"grade": 7,
+		"definition": "one billionth of a meter, used to measure things as tiny as atoms",
+		"parts": [
+			{
+				"m": "nano"
+			},
+			{
+				"m": "meter"
+			}
+		]
+	},
+	{
+		"word": "nanosecond",
+		"grade": 7,
+		"definition": "one billionth of a second",
+		"parts": [
+			{
+				"m": "nano"
+			},
+			{
+				"m": "second"
+			}
+		]
+	},
+	{
+		"word": "nanotechnology",
+		"grade": 8,
+		"definition": "the science of making materials and machines so tiny they are measured in billionths of a meter",
+		"parts": [
+			{
+				"m": "nano"
+			},
+			{
+				"m": "techno"
+			},
+			{
+				"m": "logy"
+			}
+		]
+	},
+	{
+		"word": "millisecond",
+		"grade": 6,
+		"definition": "one thousandth of a second, about how long a camera flash lasts",
+		"parts": [
+			{
+				"m": "milli",
+				"meaning": 1
+			},
+			{
+				"m": "second"
+			}
+		]
+	},
+	{
+		"word": "microsecond",
+		"grade": 7,
+		"definition": "one millionth of a second",
+		"parts": [
+			{
+				"m": "micro"
+			},
+			{
+				"m": "second"
+			}
+		]
+	},
+	{
+		"word": "milliliter",
+		"grade": 5,
+		"definition": "one thousandth of a liter, about 20 drops of water",
+		"parts": [
+			{
+				"m": "milli",
+				"meaning": 1
+			},
+			{
+				"m": "liter"
+			}
+		]
+	},
+	{
+		"word": "centiliter",
+		"grade": 6,
+		"definition": "one hundredth of a liter, about two teaspoons",
+		"parts": [
+			{
+				"m": "centi",
+				"meaning": 1
+			},
+			{
+				"m": "liter"
+			}
+		]
+	},
+	{
+		"word": "deciliter",
+		"grade": 6,
+		"definition": "one tenth of a liter",
+		"parts": [
+			{
+				"m": "deci"
+			},
+			{
+				"m": "liter"
+			}
+		]
+	},
+	{
+		"word": "kiloliter",
+		"grade": 6,
+		"definition": "one thousand liters, about enough water to fill a small hot tub",
+		"parts": [
+			{
+				"m": "kilo"
+			},
+			{
+				"m": "liter"
+			}
+		]
+	},
+	{
+		"word": "decigram",
+		"grade": 6,
+		"definition": "one tenth of a gram",
+		"parts": [
+			{
+				"m": "deci"
+			},
+			{
+				"m": "gram",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "taxonomy",
+		"grade": 7,
+		"definition": "the science of naming living things and sorting them into groups",
+		"parts": [
+			{
+				"m": "taxo"
+			},
+			{
+				"m": "nomy"
+			}
+		]
+	},
+	{
+		"word": "taxonomist",
+		"grade": 8,
+		"definition": "a scientist who names living things and sorts them into groups",
+		"parts": [
+			{
+				"m": "taxo"
+			},
+			{
+				"m": "nomy",
+				"as": "nom"
+			},
+			{
+				"m": "ist"
+			}
+		]
+	},
+	{
+		"word": "taxonomic",
+		"grade": 8,
+		"definition": "having to do with the ranked groups living things are sorted into, like kingdom, genus, and species",
+		"parts": [
+			{
+				"m": "taxo"
+			},
+			{
+				"m": "nomy",
+				"as": "nom"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "classify",
+		"grade": 5,
+		"definition": "to sort things into groups by what they have in common",
+		"parts": [
+			{
+				"m": "class",
+				"as": "classi"
+			},
+			{
+				"m": "fy"
+			}
+		]
+	},
+	{
+		"word": "classification",
+		"grade": 6,
+		"definition": "a system for sorting things into groups that share features",
+		"parts": [
+			{
+				"m": "class",
+				"as": "classi"
+			},
+			{
+				"m": "fy",
+				"as": "fic"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "reclassify",
+		"grade": 7,
+		"definition": "to move something into a different group, like when Pluto became a dwarf planet",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "class",
+				"as": "classi"
+			},
+			{
+				"m": "fy"
+			}
+		]
+	},
+	{
+		"word": "quantity",
+		"grade": 5,
+		"definition": "an amount or number of something",
+		"parts": [
+			{
+				"m": "quant"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "quantitative",
+		"grade": 7,
+		"definition": "using numbers and measurements, like \"the plant grew 4 centimeters\"",
+		"parts": [
+			{
+				"m": "quant"
+			},
+			{
+				"m": "ity",
+				"as": "itat"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "quantify",
+		"grade": 7,
+		"definition": "to measure something and give it a number",
+		"parts": [
+			{
+				"m": "quant",
+				"as": "quanti"
+			},
+			{
+				"m": "fy"
+			}
+		]
+	},
+	{
+		"word": "quality",
+		"grade": 5,
+		"definition": "a feature or trait something has, like its color or texture",
+		"parts": [
+			{
+				"m": "qual"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "qualitative",
+		"grade": 7,
+		"definition": "describing with words instead of numbers, like \"the leaf is bumpy and green\"",
+		"parts": [
+			{
+				"m": "qual"
+			},
+			{
+				"m": "ity",
+				"as": "itat"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "qualitatively",
+		"grade": 8,
+		"definition": "in a way that uses words, not numbers, to describe what is observed",
+		"parts": [
+			{
+				"m": "qual"
+			},
+			{
+				"m": "ity",
+				"as": "itat"
+			},
+			{
+				"m": "ive"
+			},
+			{
+				"m": "ly",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "variable",
+		"grade": 6,
+		"definition": "a factor in an experiment that can change, like the amount of water a plant gets",
+		"parts": [
+			{
+				"m": "vary",
+				"as": "vari"
+			},
+			{
+				"m": "able"
+			}
+		]
+	},
+	{
+		"word": "variation",
+		"grade": 7,
+		"definition": "a difference among things of the same kind, like the different heights of sunflowers",
+		"parts": [
+			{
+				"m": "vary",
+				"as": "vari"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "variability",
+		"grade": 8,
+		"definition": "how much a set of data or measurements spreads out or changes",
+		"parts": [
+			{
+				"m": "vary",
+				"as": "vari"
+			},
+			{
+				"m": "able",
+				"as": "abil"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "dependent",
+		"grade": 6,
+		"definition": "relying on something else, or changing because of it",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "pend"
+			},
+			{
+				"m": "ent"
+			}
+		]
+	},
+	{
+		"word": "independent",
+		"grade": 6,
+		"definition": "not relying on or controlled by anything else",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 0
+			},
+			{
+				"m": "de"
+			},
+			{
+				"m": "pend"
+			},
+			{
+				"m": "ent"
+			}
+		]
+	},
+	{
+		"word": "different",
+		"grade": 5,
+		"definition": "not the same as something else",
+		"parts": [
+			{
+				"m": "dis",
+				"as": "dif",
+				"meaning": 1
+			},
+			{
+				"m": "fer"
+			},
+			{
+				"m": "ent"
+			}
+		]
+	},
+	{
+		"word": "evident",
+		"grade": 7,
+		"definition": "easy to see or understand; plain and clear",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "vis",
+				"as": "vid"
+			},
+			{
+				"m": "ent"
+			}
+		]
+	},
+	{
+		"word": "infer",
+		"grade": 6,
+		"definition": "to figure something out from clues and evidence instead of seeing it directly",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "fer"
+			}
+		]
+	},
+	{
+		"word": "inference",
+		"grade": 7,
+		"definition": "an idea you figure out from clues, like guessing it rained because the street is wet",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "fer"
+			},
+			{
+				"m": "ence",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "conclusion",
+		"grade": 6,
+		"definition": "the final decision about what an experiment's results show",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "clude",
+				"as": "clus"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "procedure",
+		"grade": 6,
+		"definition": "the step-by-step instructions for doing an experiment",
+		"parts": [
+			{
+				"m": "pro"
+			},
+			{
+				"m": "cede",
+				"as": "ced"
+			},
+			{
+				"m": "ure"
+			}
+		]
+	},
+	{
+		"word": "process",
+		"grade": 5,
+		"definition": "a series of steps or changes that leads to a result, like digestion",
+		"parts": [
+			{
+				"m": "pro"
+			},
+			{
+				"m": "cede",
+				"as": "cess"
+			}
+		]
+	},
+	{
+		"word": "evidence",
+		"grade": 6,
+		"definition": "facts or observations that show whether something is true",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "vis",
+				"as": "vid"
+			},
+			{
+				"m": "ence",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "replicate",
+		"grade": 8,
+		"definition": "to repeat an experiment to see if you get the same results",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "ply",
+				"as": "plic"
+			},
+			{
+				"m": "ate"
+			}
+		]
 	}
 ]

@@ -1931,5 +1931,592 @@
 		"grade": "5-6",
 		"origin": "greek",
 		"group": "senses"
+	},
+	"exo": {
+		"type": "prefix",
+		"spelling": "exo",
+		"meanings": ["outside"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "place"
+	},
+	"endo": {
+		"type": "prefix",
+		"spelling": "endo",
+		"meanings": ["inside"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "place"
+	},
+	"di": {
+		"type": "prefix",
+		"spelling": "di",
+		"meanings": ["two"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "amount"
+	},
+	"iso": {
+		"type": "prefix",
+		"spelling": "iso",
+		"meanings": ["equal"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "amount"
+	},
+	"macro": {
+		"type": "prefix",
+		"spelling": "macro",
+		"meanings": ["very large"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "amount"
+	},
+	"atom": {
+		"type": "base",
+		"spelling": "atom",
+		"meanings": ["smallest piece"],
+		"root": "Greek atomos, uncuttable",
+		"grade": "5-6",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"mole": {
+		"type": "base",
+		"spelling": "mole",
+		"meanings": ["mass"],
+		"root": "Latin moles, mass",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"lumin": {
+		"type": "base",
+		"spelling": "lumin",
+		"meanings": ["light"],
+		"root": "Latin lumen, light",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"neuro": {
+		"type": "base",
+		"spelling": "neuro",
+		"meanings": ["nerve"],
+		"root": "Greek neuron, nerve",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "people"
+	},
+	"skeleton": {
+		"type": "base",
+		"spelling": "skeleton",
+		"meanings": ["the frame of bones that holds up a body"],
+		"root": "Greek skeletos, dried up",
+		"grade": "5-6",
+		"origin": "greek",
+		"group": "people"
+	},
+	"lysis": {
+		"type": "suffix",
+		"spelling": "lysis",
+		"meanings": ["breaking down"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "actions"
+	},
+	"cule": {
+		"type": "suffix",
+		"spelling": "cule",
+		"meanings": ["small"],
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "amount"
+	},
+	"syn": {
+		"type": "prefix",
+		"spelling": "syn",
+		"meanings": ["together"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "place"
+	},
+	"thesis": {
+		"type": "base",
+		"spelling": "thesis",
+		"meanings": ["put or place"],
+		"root": "Greek tithenai, to put or place",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "actions"
+	},
+	"a": {
+		"type": "prefix",
+		"spelling": "a",
+		"meanings": ["not"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "not"
+	},
+	"cyto": {
+		"type": "base",
+		"spelling": "cyto",
+		"meanings": ["cell"],
+		"root": "Greek kytos, hollow vessel",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"plasm": {
+		"type": "base",
+		"spelling": "plasm",
+		"meanings": ["molded material"],
+		"root": "Greek plasma, something molded",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"cell": {
+		"type": "base",
+		"spelling": "cell",
+		"meanings": ["cell"],
+		"root": "Latin cella, small room",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"ar": {
+		"type": "suffix",
+		"spelling": "ar",
+		"meanings": ["having to do with"],
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "describing"
+	},
+	"vore": {
+		"type": "base",
+		"spelling": "vore",
+		"meanings": ["eat"],
+		"root": "Latin vorare, to swallow up",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"herbi": {
+		"type": "base",
+		"spelling": "herbi",
+		"meanings": ["plant"],
+		"root": "Latin herba, grass or plant",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"carni": {
+		"type": "base",
+		"spelling": "carni",
+		"meanings": ["meat"],
+		"root": "Latin caro (carnis), flesh or meat",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"omni": {
+		"type": "prefix",
+		"spelling": "omni",
+		"meanings": ["all"],
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "amount"
+	},
+	"troph": {
+		"type": "base",
+		"spelling": "troph",
+		"meanings": ["feeding"],
+		"root": "Greek trophe, food or nourishment",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"gest": {
+		"type": "base",
+		"spelling": "gest",
+		"meanings": ["carry"],
+		"root": "Latin gerere, to carry",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"spir": {
+		"type": "base",
+		"spelling": "spir",
+		"meanings": ["breathe"],
+		"root": "Latin spirare, to breathe",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"mut": {
+		"type": "base",
+		"spelling": "mut",
+		"meanings": ["change"],
+		"root": "Latin mutare, to change",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"seismo": {
+		"type": "base",
+		"spelling": "seismo",
+		"meanings": ["earthquake"],
+		"root": "Greek seismos, a shaking or earthquake",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"litho": {
+		"type": "base",
+		"spelling": "litho",
+		"meanings": ["stone"],
+		"root": "Greek lithos, stone",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"strato": {
+		"type": "base",
+		"spelling": "strato",
+		"meanings": ["layer"],
+		"root": "Latin stratum, something spread out flat; a layer",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"tropo": {
+		"type": "base",
+		"spelling": "tropo",
+		"meanings": ["turn"],
+		"root": "Greek tropos, a turn",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "actions"
+	},
+	"atmo": {
+		"type": "base",
+		"spelling": "atmo",
+		"meanings": ["steam or mist"],
+		"root": "Greek atmos, vapor or steam",
+		"grade": "5-6",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"hemi": {
+		"type": "prefix",
+		"spelling": "hemi",
+		"meanings": ["half"],
+		"grade": "5-6",
+		"origin": "greek",
+		"group": "amount"
+	},
+	"meteoro": {
+		"type": "base",
+		"spelling": "meteoro",
+		"meanings": ["high in the air"],
+		"root": "Greek meteoros, high in the air",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"rode": {
+		"type": "base",
+		"spelling": "rode",
+		"meanings": ["gnaw"],
+		"root": "Latin rodere, to gnaw",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"sed": {
+		"type": "base",
+		"spelling": "sed",
+		"meanings": ["sit or settle"],
+		"root": "Latin sedere, to sit",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"stell": {
+		"type": "base",
+		"spelling": "stell",
+		"meanings": ["star"],
+		"root": "Latin stella, star",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"nomy": {
+		"type": "suffix",
+		"spelling": "nomy",
+		"meanings": ["the laws or system of"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"oid": {
+		"type": "suffix",
+		"spelling": "oid",
+		"meanings": ["like"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "describing"
+	},
+	"planet": {
+		"type": "base",
+		"spelling": "planet",
+		"meanings": ["a large world that travels around a star"],
+		"root": "Greek planetes, wanderer",
+		"grade": "3-4",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"volcano": {
+		"type": "base",
+		"spelling": "volcano",
+		"meanings": ["a mountain that can erupt with lava"],
+		"root": "Latin Vulcanus, the Roman god of fire",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"electro": {
+		"type": "base",
+		"spelling": "electro",
+		"meanings": ["electricity"],
+		"root": "Greek elektron, amber",
+		"grade": "5-6",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"magnet": {
+		"type": "base",
+		"spelling": "magnet",
+		"meanings": ["a stone or metal that pulls iron"],
+		"root": "Greek magnes, stone from Magnesia",
+		"grade": "3-4",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"erg": {
+		"type": "base",
+		"spelling": "erg",
+		"meanings": ["work"],
+		"root": "Greek ergon, work",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "actions"
+	},
+	"en": {
+		"type": "prefix",
+		"spelling": "en",
+		"meanings": ["in or into"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "place"
+	},
+	"grav": {
+		"type": "base",
+		"spelling": "grav",
+		"meanings": ["heavy"],
+		"root": "Latin gravis, heavy",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "describing"
+	},
+	"dense": {
+		"type": "base",
+		"spelling": "dense",
+		"meanings": ["thick or packed closely"],
+		"root": "Latin densus, thick",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "describing"
+	},
+	"vapor": {
+		"type": "base",
+		"spelling": "vapor",
+		"meanings": ["steam or mist"],
+		"root": "Latin vapor, steam",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"radi": {
+		"type": "base",
+		"spelling": "radi",
+		"meanings": ["ray"],
+		"root": "Latin radius, ray or spoke",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"on": {
+		"type": "suffix",
+		"spelling": "on",
+		"meanings": ["a tiny particle"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"neutr": {
+		"type": "base",
+		"spelling": "neutr",
+		"meanings": ["neither one nor the other"],
+		"root": "Latin neuter, neither",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "describing"
+	},
+	"ox": {
+		"type": "base",
+		"spelling": "ox",
+		"meanings": ["oxygen"],
+		"root": "Greek oxys, sour, through the word oxygen",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"ide": {
+		"type": "suffix",
+		"spelling": "ide",
+		"meanings": ["a chemical compound"],
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"chem": {
+		"type": "base",
+		"spelling": "chem",
+		"meanings": ["substances and how they change"],
+		"root": "Greek khemeia, alchemy, through Arabic al-kimiya",
+		"grade": "5-6",
+		"origin": "greek",
+		"group": "nature"
+	},
+	"insul": {
+		"type": "base",
+		"spelling": "insul",
+		"meanings": ["island"],
+		"root": "Latin insula, island",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "place"
+	},
+	"fuse": {
+		"type": "base",
+		"spelling": "fuse",
+		"meanings": ["pour or melt"],
+		"root": "Latin fundere, to pour or melt",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"hypo": {
+		"type": "prefix",
+		"spelling": "hypo",
+		"meanings": ["under"],
+		"grade": "5-6",
+		"origin": "greek",
+		"group": "place"
+	},
+	"dia": {
+		"type": "prefix",
+		"spelling": "dia",
+		"meanings": ["across"],
+		"grade": "5-6",
+		"origin": "greek",
+		"group": "place"
+	},
+	"nano": {
+		"type": "prefix",
+		"spelling": "nano",
+		"meanings": ["one billionth"],
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "amount"
+	},
+	"morpho": {
+		"type": "base",
+		"spelling": "morpho",
+		"meanings": ["shape"],
+		"root": "Greek morphe, shape or form",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "describing"
+	},
+	"taxo": {
+		"type": "base",
+		"spelling": "taxo",
+		"meanings": ["arrangement or order"],
+		"root": "Greek taxis, arrangement",
+		"grade": "7-8",
+		"origin": "greek",
+		"group": "describing"
+	},
+	"quant": {
+		"type": "base",
+		"spelling": "quant",
+		"meanings": ["how much"],
+		"root": "Latin quantus, how much",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "amount"
+	},
+	"qual": {
+		"type": "base",
+		"spelling": "qual",
+		"meanings": ["what kind"],
+		"root": "Latin qualis, of what kind",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "describing"
+	},
+	"class": {
+		"type": "base",
+		"spelling": "class",
+		"meanings": ["a group of things that are alike"],
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "people"
+	},
+	"vary": {
+		"type": "base",
+		"spelling": "vary",
+		"meanings": ["change"],
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"second": {
+		"type": "base",
+		"spelling": "second",
+		"meanings": ["a small unit of time"],
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "time"
+	},
+	"liter": {
+		"type": "base",
+		"spelling": "liter",
+		"meanings": ["a unit of liquid volume"],
+		"grade": "5-6",
+		"origin": "greek",
+		"group": "amount"
+	},
+	"ent": {
+		"type": "suffix",
+		"spelling": "ent",
+		"meanings": ["doing"],
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
 	}
 }
