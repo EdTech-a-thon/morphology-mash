@@ -2518,5 +2518,21 @@
 		"grade": "5-6",
 		"origin": "latin",
 		"group": "actions"
+	},
+	"s": {
+		"type": "suffix",
+		"spelling": "s",
+		"meanings": ["more than one", "one person or thing does it"],
+		"grade": "3-4",
+		"origin": "english",
+		"group": "amount"
+	},
+	"es": {
+		"type": "suffix",
+		"spelling": "es",
+		"meanings": ["more than one", "one person or thing does it"],
+		"grade": "3-4",
+		"origin": "english",
+		"group": "amount"
 	}
 }

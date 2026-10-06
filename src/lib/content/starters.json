@@ -735,5 +735,40 @@
 			"class",
 			"fy"
 		]
+	},
+	{
+		"id": "endings",
+		"name": "Endings: -s, -es, -ed, -ing",
+		"type": "build",
+		"morphemes": [
+			"s",
+			"es",
+			"ed",
+			"ing",
+			"er",
+			"re",
+			"read",
+			"write",
+			"play",
+			"help",
+			"teach",
+			"sleep",
+			"build",
+			"grow",
+			"spell",
+			"agree",
+			"appear",
+			"freeze",
+			"friend",
+			"game",
+			"day",
+			"week",
+			"night",
+			"hero",
+			"home",
+			"color",
+			"circle",
+			"season"
+		]
 	}
 ]

@@ -11940,5 +11940,695 @@
 				"m": "ate"
 			}
 		]
+	},
+	{
+		"word": "friends",
+		"grade": 3,
+		"definition": "people you like and trust",
+		"parts": [
+			{
+				"m": "friend"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "games",
+		"grade": 3,
+		"definition": "contests with rules, like tag or chess",
+		"parts": [
+			{
+				"m": "game"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "days",
+		"grade": 3,
+		"definition": "more than one period of daylight",
+		"parts": [
+			{
+				"m": "day"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "weeks",
+		"grade": 3,
+		"definition": "more than one stretch of seven days",
+		"parts": [
+			{
+				"m": "week"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "nights",
+		"grade": 3,
+		"definition": "the dark parts of more than one day",
+		"parts": [
+			{
+				"m": "night"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "seasons",
+		"grade": 3,
+		"definition": "the parts of the year, like spring, summer, fall, and winter",
+		"parts": [
+			{
+				"m": "season"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "colors",
+		"grade": 3,
+		"definition": "shades like red, blue, and yellow",
+		"parts": [
+			{
+				"m": "color"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "circles",
+		"grade": 3,
+		"definition": "more than one round shape",
+		"parts": [
+			{
+				"m": "circle"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "homes",
+		"grade": 3,
+		"definition": "the places where people live",
+		"parts": [
+			{
+				"m": "home"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "teachers",
+		"grade": 3,
+		"definition": "people who help others learn",
+		"parts": [
+			{
+				"m": "teach"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "readers",
+		"grade": 3,
+		"definition": "people who read",
+		"parts": [
+			{
+				"m": "read"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "writers",
+		"grade": 3,
+		"definition": "people who write stories, poems, or articles",
+		"parts": [
+			{
+				"m": "write",
+				"as": "writ"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "players",
+		"grade": 3,
+		"definition": "people who take part in a game or sport",
+		"parts": [
+			{
+				"m": "play"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "helpers",
+		"grade": 3,
+		"definition": "people who make things easier for others",
+		"parts": [
+			{
+				"m": "help"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "planets",
+		"grade": 4,
+		"definition": "large worlds that travel around a star, like Earth and Mars",
+		"parts": [
+			{
+				"m": "planet"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "magnets",
+		"grade": 4,
+		"definition": "pieces of metal that pull iron toward them",
+		"parts": [
+			{
+				"m": "magnet"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "insects",
+		"grade": 4,
+		"definition": "small animals with six legs, like ants and bees",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "sect"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "astronauts",
+		"grade": 5,
+		"definition": "people trained to travel and work in space",
+		"parts": [
+			{
+				"m": "astro"
+			},
+			{
+				"m": "naut"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "herbivores",
+		"grade": 5,
+		"definition": "animals that eat only plants, like deer and rabbits",
+		"parts": [
+			{
+				"m": "herbi"
+			},
+			{
+				"m": "vore"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "cells",
+		"grade": 5,
+		"definition": "the tiny building blocks that all living things are made of",
+		"parts": [
+			{
+				"m": "cell"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "atoms",
+		"grade": 6,
+		"definition": "the tiny particles that everything around us is made of",
+		"parts": [
+			{
+				"m": "atom"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "molecules",
+		"grade": 7,
+		"definition": "tiny groups of atoms joined together, like the bits that make up water",
+		"parts": [
+			{
+				"m": "mole"
+			},
+			{
+				"m": "cule"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "heroes",
+		"grade": 3,
+		"definition": "people admired for their bravery",
+		"parts": [
+			{
+				"m": "hero"
+			},
+			{
+				"m": "es",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "classes",
+		"grade": 4,
+		"definition": "groups of students who learn together",
+		"parts": [
+			{
+				"m": "class"
+			},
+			{
+				"m": "es",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "kindnesses",
+		"grade": 4,
+		"definition": "kind and caring acts",
+		"parts": [
+			{
+				"m": "kind"
+			},
+			{
+				"m": "ness"
+			},
+			{
+				"m": "es",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "volcanoes",
+		"grade": 5,
+		"definition": "mountains that can erupt with lava",
+		"parts": [
+			{
+				"m": "volcano"
+			},
+			{
+				"m": "es",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "biographies",
+		"grade": 6,
+		"definition": "written stories of people's lives",
+		"parts": [
+			{
+				"m": "bio"
+			},
+			{
+				"m": "graph"
+			},
+			{
+				"m": "y",
+				"as": "i"
+			},
+			{
+				"m": "es",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "reads",
+		"grade": 3,
+		"definition": "looks at and understands words, as in \"she reads a book\"",
+		"parts": [
+			{
+				"m": "read"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "writes",
+		"grade": 3,
+		"definition": "puts words on a page, as in \"he writes a letter\"",
+		"parts": [
+			{
+				"m": "write"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "plays",
+		"grade": 3,
+		"definition": "has fun or takes part in a game, as in \"she plays soccer\"",
+		"parts": [
+			{
+				"m": "play"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "sleeps",
+		"grade": 3,
+		"definition": "rests with eyes closed, as in \"the cat sleeps all day\"",
+		"parts": [
+			{
+				"m": "sleep"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "builds",
+		"grade": 3,
+		"definition": "puts something together, as in \"he builds a fort\"",
+		"parts": [
+			{
+				"m": "build"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "grows",
+		"grade": 3,
+		"definition": "gets bigger, as in \"the plant grows every day\"",
+		"parts": [
+			{
+				"m": "grow"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "spells",
+		"grade": 3,
+		"definition": "writes or says the letters of a word, as in \"she spells her name\"",
+		"parts": [
+			{
+				"m": "spell"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "agrees",
+		"grade": 3,
+		"definition": "thinks the same way, as in \"he agrees with you\"",
+		"parts": [
+			{
+				"m": "agree"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "appears",
+		"grade": 4,
+		"definition": "comes into view, as in \"the moon appears at night\"",
+		"parts": [
+			{
+				"m": "appear"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "freezes",
+		"grade": 4,
+		"definition": "turns to ice, as in \"the pond freezes in winter\"",
+		"parts": [
+			{
+				"m": "freeze"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "rereads",
+		"grade": 4,
+		"definition": "reads again, as in \"she rereads her favorite book\"",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "read"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "erodes",
+		"grade": 6,
+		"definition": "wears away little by little, as in \"the river erodes its banks\"",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "rode"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "evaporates",
+		"grade": 6,
+		"definition": "turns from a liquid into a gas, as in \"the puddle evaporates in the sun\"",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "vapor"
+			},
+			{
+				"m": "ate"
+			},
+			{
+				"m": "s",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "teaches",
+		"grade": 3,
+		"definition": "helps someone learn, as in \"she teaches math\"",
+		"parts": [
+			{
+				"m": "teach"
+			},
+			{
+				"m": "es",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "classifies",
+		"grade": 5,
+		"definition": "sorts things into groups, as in \"he classifies the rocks\"",
+		"parts": [
+			{
+				"m": "class",
+				"as": "classi"
+			},
+			{
+				"m": "fy",
+				"as": "fi"
+			},
+			{
+				"m": "es",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "simplifies",
+		"grade": 6,
+		"definition": "makes something easier, as in \"she simplifies the problem\"",
+		"parts": [
+			{
+				"m": "simple",
+				"as": "simpli"
+			},
+			{
+				"m": "fy",
+				"as": "fi"
+			},
+			{
+				"m": "es",
+				"meaning": 1
+			}
+		]
+	},
+	{
+		"word": "purifies",
+		"grade": 6,
+		"definition": "makes something clean, as in \"the filter purifies the water\"",
+		"parts": [
+			{
+				"m": "pure",
+				"as": "puri"
+			},
+			{
+				"m": "fy",
+				"as": "fi"
+			},
+			{
+				"m": "es",
+				"meaning": 1
+			}
+		]
 	}
 ]
