@@ -2534,5 +2534,303 @@
 		"grade": "3-4",
 		"origin": "english",
 		"group": "amount"
+	},
+	"fore": {
+		"type": "prefix",
+		"spelling": "fore",
+		"meanings": ["before"],
+		"grade": "5-6",
+		"origin": "english",
+		"group": "time"
+	},
+	"ad": {
+		"type": "prefix",
+		"spelling": "ad",
+		"meanings": ["toward"],
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "place"
+	},
+	"mal": {
+		"type": "prefix",
+		"spelling": "mal",
+		"meanings": ["bad or badly"],
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "not"
+	},
+	"circum": {
+		"type": "prefix",
+		"spelling": "circum",
+		"meanings": ["around"],
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "place"
+	},
+	"ob": {
+		"type": "prefix",
+		"spelling": "ob",
+		"meanings": ["against", "toward"],
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "place"
+	},
+	"head": {
+		"type": "base",
+		"spelling": "head",
+		"meanings": ["the top part of the body"],
+		"grade": "3-4",
+		"origin": "english",
+		"group": "people"
+	},
+	"arm": {
+		"type": "base",
+		"spelling": "arm",
+		"meanings": ["the body part between the shoulder and the hand"],
+		"grade": "3-4",
+		"origin": "english",
+		"group": "people"
+	},
+	"ground": {
+		"type": "base",
+		"spelling": "ground",
+		"meanings": ["earth"],
+		"grade": "3-4",
+		"origin": "english",
+		"group": "nature"
+	},
+	"word": {
+		"type": "base",
+		"spelling": "word",
+		"meanings": ["word or speech"],
+		"grade": "3-4",
+		"origin": "english",
+		"group": "senses"
+	},
+	"see": {
+		"type": "base",
+		"spelling": "see",
+		"meanings": ["see"],
+		"grade": "3-4",
+		"origin": "english",
+		"group": "senses"
+	},
+	"tell": {
+		"type": "base",
+		"spelling": "tell",
+		"meanings": ["say"],
+		"grade": "3-4",
+		"origin": "english",
+		"group": "senses"
+	},
+	"cast": {
+		"type": "base",
+		"spelling": "cast",
+		"meanings": ["throw"],
+		"grade": "5-6",
+		"origin": "english",
+		"group": "actions"
+	},
+	"warn": {
+		"type": "base",
+		"spelling": "warn",
+		"meanings": ["to give notice of danger"],
+		"grade": "5-6",
+		"origin": "english",
+		"group": "senses"
+	},
+	"function": {
+		"type": "base",
+		"spelling": "function",
+		"meanings": ["what something is for"],
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"treat": {
+		"type": "base",
+		"spelling": "treat",
+		"meanings": ["to deal with someone or something in a certain way"],
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"nourish": {
+		"type": "base",
+		"spelling": "nourish",
+		"meanings": ["feeding"],
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"tend": {
+		"type": "base",
+		"spelling": "tend",
+		"meanings": ["stretch"],
+		"root": "Latin tendere, to stretch",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"navig": {
+		"type": "base",
+		"spelling": "navig",
+		"meanings": ["sail"],
+		"root": "Latin navigare, to sail",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"fact": {
+		"type": "base",
+		"spelling": "fact",
+		"meanings": ["make"],
+		"root": "Latin facere, to make or do (also fect-, fic-)",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"stat": {
+		"type": "base",
+		"spelling": "stat",
+		"meanings": ["stand"],
+		"root": "Latin stare, to stand (also stance, stant-)",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"sist": {
+		"type": "base",
+		"spelling": "sist",
+		"meanings": ["stand"],
+		"root": "Latin sistere, to stand or cause to stand",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"jur": {
+		"type": "base",
+		"spelling": "jur",
+		"meanings": ["law"],
+		"root": "Latin ius, juris, law (also jus-, just-)",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "people"
+	},
+	"jud": {
+		"type": "base",
+		"spelling": "jud",
+		"meanings": ["judge or decide"],
+		"root": "Latin iudicare, to judge, from ius (law) + dicere (to say)",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"bene": {
+		"type": "base",
+		"spelling": "bene",
+		"meanings": ["good or well"],
+		"root": "Latin bene, well (also ben-; bon- from bonus, good)",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "describing"
+	},
+	"join": {
+		"type": "base",
+		"spelling": "join",
+		"meanings": ["link together"],
+		"root": "Latin iungere, to join (also junct-)",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"strict": {
+		"type": "base",
+		"spelling": "strict",
+		"meanings": ["draw tight"],
+		"root": "Latin stringere, to draw tight (also strain-, string-)",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"terra": {
+		"type": "base",
+		"spelling": "terra",
+		"meanings": ["earth"],
+		"root": "Latin terra, earth",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"citizen": {
+		"type": "base",
+		"spelling": "citizen",
+		"meanings": ["a member of a town or country"],
+		"root": "Old French citeien, from cite, city",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "people"
+	},
+	"commun": {
+		"type": "base",
+		"spelling": "commun",
+		"meanings": ["shared by all"],
+		"root": "Latin communis, shared or common",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "people"
+	},
+	"globe": {
+		"type": "base",
+		"spelling": "globe",
+		"meanings": ["ball or globe"],
+		"root": "Latin globus, ball",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "nature"
+	},
+	"juxta": {
+		"type": "prefix",
+		"spelling": "juxta",
+		"meanings": ["next to"],
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "place"
+	},
+	"migr": {
+		"type": "base",
+		"spelling": "migr",
+		"meanings": ["to go from one place to another"],
+		"root": "Latin migrare, to move",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"nect": {
+		"type": "base",
+		"spelling": "nect",
+		"meanings": ["link together"],
+		"root": "Latin nectere, to tie or bind",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"fuge": {
+		"type": "base",
+		"spelling": "fuge",
+		"meanings": ["flee or run away"],
+		"root": "Latin fugere, to flee",
+		"grade": "7-8",
+		"origin": "latin",
+		"group": "actions"
+	},
+	"mass": {
+		"type": "base",
+		"spelling": "mass",
+		"meanings": ["mass"],
+		"root": "Latin massa, lump",
+		"grade": "5-6",
+		"origin": "latin",
+		"group": "amount"
 	}
 }

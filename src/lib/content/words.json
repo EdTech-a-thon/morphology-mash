@@ -12630,5 +12630,3982 @@
 				"meaning": 1
 			}
 		]
+	},
+	{
+		"word": "forehead",
+		"grade": 4,
+		"definition": "the part of the face above the eyebrows",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "head"
+			}
+		]
+	},
+	{
+		"word": "headed",
+		"grade": 3,
+		"definition": "went or pointed in a certain direction",
+		"parts": [
+			{
+				"m": "head"
+			},
+			{
+				"m": "ed"
+			}
+		]
+	},
+	{
+		"word": "heading",
+		"grade": 4,
+		"definition": "a title at the top of a page or section",
+		"parts": [
+			{
+				"m": "head"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "header",
+		"grade": 5,
+		"definition": "a line of text repeated at the top of every page",
+		"parts": [
+			{
+				"m": "head"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "forearm",
+		"grade": 5,
+		"definition": "the part of the arm between the elbow and the wrist",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "arm"
+			}
+		]
+	},
+	{
+		"word": "armful",
+		"grade": 4,
+		"definition": "as much as you can carry in your hands and chest at one time",
+		"parts": [
+			{
+				"m": "arm"
+			},
+			{
+				"m": "ful"
+			}
+		]
+	},
+	{
+		"word": "foreground",
+		"grade": 5,
+		"definition": "the part of a scene or picture closest to the viewer",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "ground"
+			}
+		]
+	},
+	{
+		"word": "grounded",
+		"grade": 4,
+		"definition": "kept at home as a punishment",
+		"parts": [
+			{
+				"m": "ground"
+			},
+			{
+				"m": "ed"
+			}
+		]
+	},
+	{
+		"word": "grounding",
+		"grade": 6,
+		"definition": "basic training or knowledge in a subject",
+		"parts": [
+			{
+				"m": "ground"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "groundless",
+		"grade": 7,
+		"definition": "having no good reason behind it",
+		"parts": [
+			{
+				"m": "ground"
+			},
+			{
+				"m": "less"
+			}
+		]
+	},
+	{
+		"word": "foreword",
+		"grade": 7,
+		"definition": "a short introduction at the start of a book",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "word"
+			}
+		]
+	},
+	{
+		"word": "wordless",
+		"grade": 5,
+		"definition": "done without speaking or any text",
+		"parts": [
+			{
+				"m": "word"
+			},
+			{
+				"m": "less"
+			}
+		]
+	},
+	{
+		"word": "worded",
+		"grade": 5,
+		"definition": "written or spoken in a certain way",
+		"parts": [
+			{
+				"m": "word"
+			},
+			{
+				"m": "ed"
+			}
+		]
+	},
+	{
+		"word": "wording",
+		"grade": 5,
+		"definition": "the exact language chosen to say something",
+		"parts": [
+			{
+				"m": "word"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "foresee",
+		"grade": 6,
+		"definition": "to know or guess that something will happen before it does",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "see"
+			}
+		]
+	},
+	{
+		"word": "foreseeing",
+		"grade": 7,
+		"definition": "knowing ahead of time that something will happen",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "see"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "foreseeable",
+		"grade": 7,
+		"definition": "able to be guessed before it happens",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "see"
+			},
+			{
+				"m": "able"
+			}
+		]
+	},
+	{
+		"word": "foretell",
+		"grade": 7,
+		"definition": "to say what will happen before it takes place",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "tell"
+			}
+		]
+	},
+	{
+		"word": "foretelling",
+		"grade": 8,
+		"definition": "saying what will happen before it takes place",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "tell"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "teller",
+		"grade": 5,
+		"definition": "a person who works at a bank counting and handing out money",
+		"parts": [
+			{
+				"m": "tell"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "forecast",
+		"grade": 5,
+		"definition": "to say what the weather or other events will probably be",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "cast"
+			}
+		]
+	},
+	{
+		"word": "forecaster",
+		"grade": 6,
+		"definition": "a person who says what the weather will probably be",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "cast"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "forecasting",
+		"grade": 6,
+		"definition": "saying what the weather or other events will probably be",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "cast"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "forewarn",
+		"grade": 7,
+		"definition": "to give notice of danger before it happens",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "warn"
+			}
+		]
+	},
+	{
+		"word": "forewarned",
+		"grade": 7,
+		"definition": "told about a danger before it happened",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "warn"
+			},
+			{
+				"m": "ed"
+			}
+		]
+	},
+	{
+		"word": "forewarning",
+		"grade": 8,
+		"definition": "a sign or notice that trouble is coming",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "warn"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "forerunner",
+		"grade": 8,
+		"definition": "a person or thing that comes before and points the way for what follows",
+		"parts": [
+			{
+				"m": "fore"
+			},
+			{
+				"m": "run",
+				"as": "runn"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "attract",
+		"grade": 5,
+		"definition": "to pull something closer, like a magnet does",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "at"
+			},
+			{
+				"m": "tract"
+			}
+		]
+	},
+	{
+		"word": "attraction",
+		"grade": 6,
+		"definition": "a pull that brings things or people closer together",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "at"
+			},
+			{
+				"m": "tract"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "attractive",
+		"grade": 6,
+		"definition": "pleasing to look at, so that it draws people in",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "at"
+			},
+			{
+				"m": "tract"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "attend",
+		"grade": 5,
+		"definition": "to be present at an event or place",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "at"
+			},
+			{
+				"m": "tend"
+			}
+		]
+	},
+	{
+		"word": "attention",
+		"grade": 5,
+		"definition": "careful listening or watching with your mind on one thing",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "at"
+			},
+			{
+				"m": "tend",
+				"as": "tent"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "attentive",
+		"grade": 7,
+		"definition": "watching or listening closely with your mind on the task",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "at"
+			},
+			{
+				"m": "tend",
+				"as": "tent"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "accept",
+		"grade": 5,
+		"definition": "to take what is offered and agree to it",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "ac"
+			},
+			{
+				"m": "ceive",
+				"as": "cept"
+			}
+		]
+	},
+	{
+		"word": "acceptable",
+		"grade": 6,
+		"definition": "good enough to be taken or allowed",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "ac"
+			},
+			{
+				"m": "ceive",
+				"as": "cept"
+			},
+			{
+				"m": "able"
+			}
+		]
+	},
+	{
+		"word": "access",
+		"grade": 6,
+		"definition": "a way to get in or reach a place or thing",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "ac"
+			},
+			{
+				"m": "cede",
+				"as": "cess"
+			}
+		]
+	},
+	{
+		"word": "accessible",
+		"grade": 7,
+		"definition": "able to be reached or entered",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "ac"
+			},
+			{
+				"m": "cede",
+				"as": "cess"
+			},
+			{
+				"m": "ible"
+			}
+		]
+	},
+	{
+		"word": "acclaim",
+		"grade": 8,
+		"definition": "to praise loudly and publicly",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "ac"
+			},
+			{
+				"m": "claim"
+			}
+		]
+	},
+	{
+		"word": "apply",
+		"grade": 5,
+		"definition": "to put something onto a surface or to ask for a job or place",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "ap"
+			},
+			{
+				"m": "ply"
+			}
+		]
+	},
+	{
+		"word": "application",
+		"grade": 6,
+		"definition": "a form you fill out to ask for a job or place",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "ap"
+			},
+			{
+				"m": "ply",
+				"as": "plic"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "aggression",
+		"grade": 8,
+		"definition": "angry or forceful behavior that attacks others",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "ag"
+			},
+			{
+				"m": "gress"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "aggressive",
+		"grade": 7,
+		"definition": "ready to attack or push others around",
+		"parts": [
+			{
+				"m": "ad",
+				"as": "ag"
+			},
+			{
+				"m": "gress"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "admit",
+		"grade": 6,
+		"definition": "to let in, or to say that something is true",
+		"parts": [
+			{
+				"m": "ad"
+			},
+			{
+				"m": "mit"
+			}
+		]
+	},
+	{
+		"word": "admission",
+		"grade": 7,
+		"definition": "the right to enter, or the price paid to go in",
+		"parts": [
+			{
+				"m": "ad"
+			},
+			{
+				"m": "mit",
+				"as": "miss"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "adventure",
+		"grade": 5,
+		"definition": "an exciting trip or experience where something unusual happens",
+		"parts": [
+			{
+				"m": "ad"
+			},
+			{
+				"m": "vent"
+			},
+			{
+				"m": "ure"
+			}
+		]
+	},
+	{
+		"word": "adjective",
+		"grade": 5,
+		"definition": "a word that describes a noun",
+		"parts": [
+			{
+				"m": "ad"
+			},
+			{
+				"m": "ject"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "advocate",
+		"grade": 8,
+		"definition": "to speak out in support of an idea or a person",
+		"parts": [
+			{
+				"m": "ad"
+			},
+			{
+				"m": "voc"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "extend",
+		"grade": 6,
+		"definition": "to stretch out or make longer",
+		"parts": [
+			{
+				"m": "ex"
+			},
+			{
+				"m": "tend"
+			}
+		]
+	},
+	{
+		"word": "pretend",
+		"grade": 4,
+		"definition": "to act as if something is true when it is not",
+		"parts": [
+			{
+				"m": "pre"
+			},
+			{
+				"m": "tend"
+			}
+		]
+	},
+	{
+		"word": "malformed",
+		"grade": 8,
+		"definition": "made in a wrong or twisted shape",
+		"parts": [
+			{
+				"m": "mal"
+			},
+			{
+				"m": "form"
+			},
+			{
+				"m": "ed"
+			}
+		]
+	},
+	{
+		"word": "malformation",
+		"grade": 8,
+		"definition": "a part of the body or a thing that has grown in a wrong shape",
+		"parts": [
+			{
+				"m": "mal"
+			},
+			{
+				"m": "form"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "malfunction",
+		"grade": 7,
+		"definition": "to fail to work the way it should",
+		"parts": [
+			{
+				"m": "mal"
+			},
+			{
+				"m": "function"
+			}
+		]
+	},
+	{
+		"word": "malfunctioning",
+		"grade": 8,
+		"definition": "failing to work the way it should",
+		"parts": [
+			{
+				"m": "mal"
+			},
+			{
+				"m": "function"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "functional",
+		"grade": 6,
+		"definition": "able to do its job",
+		"parts": [
+			{
+				"m": "function"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "maltreat",
+		"grade": 8,
+		"definition": "to be cruel or unkind to someone",
+		"parts": [
+			{
+				"m": "mal"
+			},
+			{
+				"m": "treat"
+			}
+		]
+	},
+	{
+		"word": "maltreatment",
+		"grade": 8,
+		"definition": "cruel or unkind behavior toward a person or animal",
+		"parts": [
+			{
+				"m": "mal"
+			},
+			{
+				"m": "treat"
+			},
+			{
+				"m": "ment"
+			}
+		]
+	},
+	{
+		"word": "treatment",
+		"grade": 6,
+		"definition": "the way someone or something is dealt with, or care given for an illness",
+		"parts": [
+			{
+				"m": "treat"
+			},
+			{
+				"m": "ment"
+			}
+		]
+	},
+	{
+		"word": "malnourished",
+		"grade": 8,
+		"definition": "weak because of not getting enough healthy food",
+		"parts": [
+			{
+				"m": "mal"
+			},
+			{
+				"m": "nourish"
+			},
+			{
+				"m": "ed"
+			}
+		]
+	},
+	{
+		"word": "nourishing",
+		"grade": 7,
+		"definition": "giving the healthy food that a body needs to grow",
+		"parts": [
+			{
+				"m": "nourish"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "nourishment",
+		"grade": 7,
+		"definition": "the food that a living thing needs to grow and stay healthy",
+		"parts": [
+			{
+				"m": "nourish"
+			},
+			{
+				"m": "ment"
+			}
+		]
+	},
+	{
+		"word": "circumference",
+		"grade": 7,
+		"definition": "the distance around the edge of a circle",
+		"parts": [
+			{
+				"m": "circum"
+			},
+			{
+				"m": "fer"
+			},
+			{
+				"m": "ence",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "circumnavigate",
+		"grade": 8,
+		"definition": "to sail or travel all the way around the world or an island",
+		"parts": [
+			{
+				"m": "circum"
+			},
+			{
+				"m": "navig"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "navigate",
+		"grade": 7,
+		"definition": "to find the way and steer a ship, plane, or car",
+		"parts": [
+			{
+				"m": "navig"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "navigation",
+		"grade": 7,
+		"definition": "the art of finding the way and steering a course",
+		"parts": [
+			{
+				"m": "navig"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "navigator",
+		"grade": 8,
+		"definition": "a person who plans the route and steers a ship or plane",
+		"parts": [
+			{
+				"m": "navig"
+			},
+			{
+				"m": "ate",
+				"as": "at"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "circumstance",
+		"grade": 8,
+		"definition": "a fact or condition that goes along with an event",
+		"parts": [
+			{
+				"m": "circum"
+			},
+			{
+				"m": "stat",
+				"as": "stance"
+			}
+		]
+	},
+	{
+		"word": "constant",
+		"grade": 6,
+		"definition": "staying the same all the time without change",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "stat",
+				"as": "stant"
+			}
+		]
+	},
+	{
+		"word": "substance",
+		"grade": 7,
+		"definition": "any kind of matter that has weight and takes up space",
+		"parts": [
+			{
+				"m": "sub"
+			},
+			{
+				"m": "stat",
+				"as": "stance"
+			}
+		]
+	},
+	{
+		"word": "circumspect",
+		"grade": 8,
+		"definition": "careful to look at everything around before acting",
+		"parts": [
+			{
+				"m": "circum"
+			},
+			{
+				"m": "spect"
+			}
+		]
+	},
+	{
+		"word": "circumvent",
+		"grade": 8,
+		"definition": "to find a way around a rule or a problem",
+		"parts": [
+			{
+				"m": "circum"
+			},
+			{
+				"m": "vent"
+			}
+		]
+	},
+	{
+		"word": "circumscribe",
+		"grade": 8,
+		"definition": "to draw a line around something",
+		"parts": [
+			{
+				"m": "circum"
+			},
+			{
+				"m": "script",
+				"as": "scribe"
+			}
+		]
+	},
+	{
+		"word": "circulate",
+		"grade": 6,
+		"definition": "to move around in a path that returns to its start",
+		"parts": [
+			{
+				"m": "circle",
+				"as": "circul"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "circulation",
+		"grade": 7,
+		"definition": "the movement of blood or air around a path through a body or building",
+		"parts": [
+			{
+				"m": "circle",
+				"as": "circul"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "obstruct",
+		"grade": 7,
+		"definition": "to block the way so that nothing can get through",
+		"parts": [
+			{
+				"m": "ob",
+				"meaning": 0
+			},
+			{
+				"m": "struct"
+			}
+		]
+	},
+	{
+		"word": "obstruction",
+		"grade": 7,
+		"definition": "something that blocks the way",
+		"parts": [
+			{
+				"m": "ob",
+				"meaning": 0
+			},
+			{
+				"m": "struct"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "obstructive",
+		"grade": 8,
+		"definition": "tending to block or get in the way",
+		"parts": [
+			{
+				"m": "ob",
+				"meaning": 0
+			},
+			{
+				"m": "struct"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "object",
+		"grade": 5,
+		"definition": "to say that you disagree with something",
+		"parts": [
+			{
+				"m": "ob",
+				"meaning": 0
+			},
+			{
+				"m": "ject"
+			}
+		]
+	},
+	{
+		"word": "objection",
+		"grade": 6,
+		"definition": "a reason given for not agreeing with something",
+		"parts": [
+			{
+				"m": "ob",
+				"meaning": 0
+			},
+			{
+				"m": "ject"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "oppose",
+		"grade": 6,
+		"definition": "to stand against or work against an idea or person",
+		"parts": [
+			{
+				"m": "ob",
+				"as": "op",
+				"meaning": 0
+			},
+			{
+				"m": "pose"
+			}
+		]
+	},
+	{
+		"word": "opposition",
+		"grade": 7,
+		"definition": "the people or ideas that work against another",
+		"parts": [
+			{
+				"m": "ob",
+				"as": "op",
+				"meaning": 0
+			},
+			{
+				"m": "pose",
+				"as": "posit"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "oppress",
+		"grade": 8,
+		"definition": "to treat people cruelly and keep them from having freedom",
+		"parts": [
+			{
+				"m": "ob",
+				"as": "op",
+				"meaning": 0
+			},
+			{
+				"m": "press"
+			}
+		]
+	},
+	{
+		"word": "oppression",
+		"grade": 8,
+		"definition": "the cruel and unfair treatment of a group of people",
+		"parts": [
+			{
+				"m": "ob",
+				"as": "op",
+				"meaning": 0
+			},
+			{
+				"m": "press"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "offer",
+		"grade": 4,
+		"definition": "to hold something out so that someone can take it",
+		"parts": [
+			{
+				"m": "ob",
+				"as": "of",
+				"meaning": 1
+			},
+			{
+				"m": "fer"
+			}
+		]
+	},
+	{
+		"word": "offering",
+		"grade": 6,
+		"definition": "a gift or something that is held out to be taken",
+		"parts": [
+			{
+				"m": "ob",
+				"as": "of",
+				"meaning": 1
+			},
+			{
+				"m": "fer"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "occur",
+		"grade": 6,
+		"definition": "to take place or come about",
+		"parts": [
+			{
+				"m": "ob",
+				"as": "oc",
+				"meaning": 1
+			},
+			{
+				"m": "cur"
+			}
+		]
+	},
+	{
+		"word": "occurrence",
+		"grade": 8,
+		"definition": "something that happens",
+		"parts": [
+			{
+				"m": "ob",
+				"as": "oc",
+				"meaning": 1
+			},
+			{
+				"m": "cur",
+				"as": "curr"
+			},
+			{
+				"m": "ence",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "synonym",
+		"grade": 6,
+		"definition": "a word that means almost the same as another word",
+		"parts": [
+			{
+				"m": "syn"
+			},
+			{
+				"m": "onym"
+			}
+		]
+	},
+	{
+		"word": "synonymous",
+		"grade": 8,
+		"definition": "having nearly the same meaning",
+		"parts": [
+			{
+				"m": "syn"
+			},
+			{
+				"m": "onym"
+			},
+			{
+				"m": "ous"
+			}
+		]
+	},
+	{
+		"word": "symphony",
+		"grade": 7,
+		"definition": "a long piece of music played by a full orchestra",
+		"parts": [
+			{
+				"m": "syn",
+				"as": "sym"
+			},
+			{
+				"m": "phone",
+				"as": "phon"
+			},
+			{
+				"m": "y"
+			}
+		]
+	},
+	{
+		"word": "sympathy",
+		"grade": 7,
+		"definition": "the sharing of another person's feelings, especially sorrow",
+		"parts": [
+			{
+				"m": "syn",
+				"as": "sym"
+			},
+			{
+				"m": "path"
+			},
+			{
+				"m": "y"
+			}
+		]
+	},
+	{
+		"word": "sympathetic",
+		"grade": 8,
+		"definition": "showing that you understand and care about another person's feelings",
+		"parts": [
+			{
+				"m": "syn",
+				"as": "sym"
+			},
+			{
+				"m": "path",
+				"as": "pathet"
+			},
+			{
+				"m": "ic"
+			}
+		]
+	},
+	{
+		"word": "sympathize",
+		"grade": 8,
+		"definition": "to understand and share someone else's feelings",
+		"parts": [
+			{
+				"m": "syn",
+				"as": "sym"
+			},
+			{
+				"m": "path"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "synergy",
+		"grade": 8,
+		"definition": "extra power gained when people or things work together",
+		"parts": [
+			{
+				"m": "syn"
+			},
+			{
+				"m": "erg"
+			},
+			{
+				"m": "y"
+			}
+		]
+	},
+	{
+		"word": "armless",
+		"grade": 4,
+		"definition": "having no arms, like a chair with no side rests",
+		"parts": [
+			{
+				"m": "arm"
+			},
+			{
+				"m": "less"
+			}
+		]
+	},
+	{
+		"word": "inscribe",
+		"grade": 7,
+		"definition": "to carve or write words onto something, like a name on a trophy",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "script",
+				"as": "scribe"
+			}
+		]
+	},
+	{
+		"word": "inscription",
+		"grade": 7,
+		"definition": "words carved or marked on a surface, like those on a monument",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "script"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "description",
+		"grade": 6,
+		"definition": "words that tell what a person, place, or thing is like",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "script"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "prescription",
+		"grade": 7,
+		"definition": "a doctor's note ordering a certain medicine",
+		"parts": [
+			{
+				"m": "pre"
+			},
+			{
+				"m": "script"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "subscription",
+		"grade": 7,
+		"definition": "an arrangement to get a magazine or service regularly by paying for it",
+		"parts": [
+			{
+				"m": "sub"
+			},
+			{
+				"m": "script"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "transcription",
+		"grade": 8,
+		"definition": "a copy of spoken words set down on paper",
+		"parts": [
+			{
+				"m": "trans",
+				"as": "tran"
+			},
+			{
+				"m": "script"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "mission",
+		"grade": 5,
+		"definition": "an important job that a person or group is sent to do",
+		"parts": [
+			{
+				"m": "mit",
+				"as": "miss"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "dismiss",
+		"grade": 6,
+		"definition": "to let someone leave or go away",
+		"parts": [
+			{
+				"m": "dis",
+				"meaning": 1
+			},
+			{
+				"m": "mit",
+				"as": "miss"
+			}
+		]
+	},
+	{
+		"word": "commit",
+		"grade": 6,
+		"definition": "to promise to do something or to stick with it",
+		"parts": [
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "mit"
+			}
+		]
+	},
+	{
+		"word": "commission",
+		"grade": 7,
+		"definition": "a fee paid to someone for selling something, or an order for a piece of work",
+		"parts": [
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "mit",
+				"as": "miss"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "committee",
+		"grade": 6,
+		"definition": "a small group chosen to work on a task for a larger group",
+		"parts": [
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "mit",
+				"as": "mitt"
+			},
+			{
+				"m": "ee"
+			}
+		]
+	},
+	{
+		"word": "emission",
+		"grade": 8,
+		"definition": "something let out into the air, like gas from a car",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "mit",
+				"as": "miss"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "intermission",
+		"grade": 6,
+		"definition": "a short break between parts of a play or concert",
+		"parts": [
+			{
+				"m": "inter"
+			},
+			{
+				"m": "mit",
+				"as": "miss"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "submissive",
+		"grade": 8,
+		"definition": "ready to give in to what other people want",
+		"parts": [
+			{
+				"m": "sub"
+			},
+			{
+				"m": "mit",
+				"as": "miss"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "transmitter",
+		"grade": 7,
+		"definition": "a device that broadcasts radio or TV signals",
+		"parts": [
+			{
+				"m": "trans"
+			},
+			{
+				"m": "mit",
+				"as": "mitt"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "factor",
+		"grade": 6,
+		"definition": "one of the things that helps bring about a result",
+		"parts": [
+			{
+				"m": "fact"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "manufacture",
+		"grade": 7,
+		"definition": "to produce goods in large numbers, usually by machine",
+		"parts": [
+			{
+				"m": "manu"
+			},
+			{
+				"m": "fact"
+			},
+			{
+				"m": "ure"
+			}
+		]
+	},
+	{
+		"word": "manufacturer",
+		"grade": 7,
+		"definition": "a company that produces goods in large numbers, usually by machine",
+		"parts": [
+			{
+				"m": "manu"
+			},
+			{
+				"m": "fact"
+			},
+			{
+				"m": "ure",
+				"as": "ur"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "effect",
+		"grade": 5,
+		"definition": "a change brought about by something",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "ef"
+			},
+			{
+				"m": "fact",
+				"as": "fect"
+			}
+		]
+	},
+	{
+		"word": "effective",
+		"grade": 6,
+		"definition": "working well and getting the result you want",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "ef"
+			},
+			{
+				"m": "fact",
+				"as": "fect"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "infect",
+		"grade": 6,
+		"definition": "to spread germs to a person, plant, or animal",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "fact",
+				"as": "fect"
+			}
+		]
+	},
+	{
+		"word": "infection",
+		"grade": 6,
+		"definition": "an illness caused by germs getting into the body",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "fact",
+				"as": "fect"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "defect",
+		"grade": 7,
+		"definition": "a flaw or fault in something",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "fact",
+				"as": "fect"
+			}
+		]
+	},
+	{
+		"word": "defective",
+		"grade": 7,
+		"definition": "having a flaw so that it does not work right",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "fact",
+				"as": "fect"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "confection",
+		"grade": 8,
+		"definition": "a sweet treat, like candy",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "fact",
+				"as": "fect"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "tenant",
+		"grade": 6,
+		"definition": "a person who pays rent to live in or use a place",
+		"parts": [
+			{
+				"m": "tain",
+				"as": "ten"
+			},
+			{
+				"m": "ant"
+			}
+		]
+	},
+	{
+		"word": "tenable",
+		"grade": 8,
+		"definition": "able to be defended against attack or criticism",
+		"parts": [
+			{
+				"m": "tain",
+				"as": "ten"
+			},
+			{
+				"m": "able"
+			}
+		]
+	},
+	{
+		"word": "retention",
+		"grade": 7,
+		"definition": "the keeping of something, like facts in your memory",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "tain",
+				"as": "tent"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "detention",
+		"grade": 6,
+		"definition": "time kept after school as a punishment",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "tain",
+				"as": "tent"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "sustain",
+		"grade": 7,
+		"definition": "to keep something going over time",
+		"parts": [
+			{
+				"m": "sub",
+				"as": "sus"
+			},
+			{
+				"m": "tain"
+			}
+		]
+	},
+	{
+		"word": "sustainable",
+		"grade": 7,
+		"definition": "able to go on for a long time without using everything up",
+		"parts": [
+			{
+				"m": "sub",
+				"as": "sus"
+			},
+			{
+				"m": "tain"
+			},
+			{
+				"m": "able"
+			}
+		]
+	},
+	{
+		"word": "capture",
+		"grade": 5,
+		"definition": "to catch someone or something and keep it",
+		"parts": [
+			{
+				"m": "ceive",
+				"as": "capt"
+			},
+			{
+				"m": "ure"
+			}
+		]
+	},
+	{
+		"word": "captive",
+		"grade": 7,
+		"definition": "a person or animal that is kept and cannot leave",
+		"parts": [
+			{
+				"m": "ceive",
+				"as": "capt"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "captor",
+		"grade": 7,
+		"definition": "a person who catches someone and keeps them prisoner",
+		"parts": [
+			{
+				"m": "ceive",
+				"as": "capt"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "recapture",
+		"grade": 7,
+		"definition": "to catch again after an escape",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "ceive",
+				"as": "capt"
+			},
+			{
+				"m": "ure"
+			}
+		]
+	},
+	{
+		"word": "concept",
+		"grade": 7,
+		"definition": "an idea about how something works or what it is",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "ceive",
+				"as": "cept"
+			}
+		]
+	},
+	{
+		"word": "except",
+		"grade": 6,
+		"definition": "not including",
+		"parts": [
+			{
+				"m": "ex"
+			},
+			{
+				"m": "ceive",
+				"as": "cept"
+			}
+		]
+	},
+	{
+		"word": "exception",
+		"grade": 7,
+		"definition": "a case that does not follow the usual rule",
+		"parts": [
+			{
+				"m": "ex"
+			},
+			{
+				"m": "ceive",
+				"as": "cept"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "reception",
+		"grade": 7,
+		"definition": "a party held to welcome guests",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "ceive",
+				"as": "cept"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "receptive",
+		"grade": 8,
+		"definition": "willing to listen to new ideas",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "ceive",
+				"as": "cept"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "intercept",
+		"grade": 7,
+		"definition": "to stop and catch something on its way somewhere",
+		"parts": [
+			{
+				"m": "inter"
+			},
+			{
+				"m": "ceive",
+				"as": "cept"
+			}
+		]
+	},
+	{
+		"word": "deceptive",
+		"grade": 8,
+		"definition": "likely to fool you into believing something false",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "ceive",
+				"as": "cept"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "position",
+		"grade": 5,
+		"definition": "the spot where a person or thing is",
+		"parts": [
+			{
+				"m": "pose",
+				"as": "posit"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "positive",
+		"grade": 5,
+		"definition": "certain, or hopeful about good things",
+		"parts": [
+			{
+				"m": "pose",
+				"as": "posit"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "deposit",
+		"grade": 6,
+		"definition": "to set money in a bank, or the money set there",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "pose",
+				"as": "posit"
+			}
+		]
+	},
+	{
+		"word": "composition",
+		"grade": 6,
+		"definition": "a piece of writing, music, or art that someone has made",
+		"parts": [
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "pose",
+				"as": "posit"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "preposition",
+		"grade": 5,
+		"definition": "a word like in, on, or under that shows how two things are related",
+		"parts": [
+			{
+				"m": "pre"
+			},
+			{
+				"m": "pose",
+				"as": "posit"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "proposal",
+		"grade": 7,
+		"definition": "a plan offered for others to think about",
+		"parts": [
+			{
+				"m": "pro"
+			},
+			{
+				"m": "pose",
+				"as": "pos"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "disposal",
+		"grade": 7,
+		"definition": "the act of getting rid of something",
+		"parts": [
+			{
+				"m": "dis",
+				"meaning": 1
+			},
+			{
+				"m": "pose",
+				"as": "pos"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "exposure",
+		"grade": 7,
+		"definition": "the state of being open to something, like sun or danger",
+		"parts": [
+			{
+				"m": "ex"
+			},
+			{
+				"m": "pose",
+				"as": "pos"
+			},
+			{
+				"m": "ure"
+			}
+		]
+	},
+	{
+		"word": "postpone",
+		"grade": 6,
+		"definition": "to move to a later time",
+		"parts": [
+			{
+				"m": "post"
+			},
+			{
+				"m": "pose",
+				"as": "pone"
+			}
+		]
+	},
+	{
+		"word": "component",
+		"grade": 7,
+		"definition": "one of the parts that make up something larger",
+		"parts": [
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "pose",
+				"as": "pon"
+			},
+			{
+				"m": "ent"
+			}
+		]
+	},
+	{
+		"word": "exponent",
+		"grade": 8,
+		"definition": "a small raised number that tells how many times to multiply a number by itself",
+		"parts": [
+			{
+				"m": "ex"
+			},
+			{
+				"m": "pose",
+				"as": "pon"
+			},
+			{
+				"m": "ent"
+			}
+		]
+	},
+	{
+		"word": "complicate",
+		"grade": 7,
+		"definition": "to make something harder to do or understand",
+		"parts": [
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "ply",
+				"as": "plic"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "complicated",
+		"grade": 5,
+		"definition": "hard to do or understand because it has many parts",
+		"parts": [
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "ply",
+				"as": "plic"
+			},
+			{
+				"m": "ate",
+				"as": "at"
+			},
+			{
+				"m": "ed"
+			}
+		]
+	},
+	{
+		"word": "complication",
+		"grade": 8,
+		"definition": "something that makes a situation harder",
+		"parts": [
+			{
+				"m": "con",
+				"as": "com"
+			},
+			{
+				"m": "ply",
+				"as": "plic"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "multiplication",
+		"grade": 5,
+		"definition": "finding the total of equal groups, like 3 groups of 4",
+		"parts": [
+			{
+				"m": "multi"
+			},
+			{
+				"m": "ply",
+				"as": "plic"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "multiplier",
+		"grade": 6,
+		"definition": "the number you multiply by",
+		"parts": [
+			{
+				"m": "multi"
+			},
+			{
+				"m": "ply",
+				"as": "pli"
+			},
+			{
+				"m": "er",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "implication",
+		"grade": 8,
+		"definition": "a hint of something that is not said outright",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1,
+				"as": "im"
+			},
+			{
+				"m": "ply",
+				"as": "plic"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "triplicate",
+		"grade": 8,
+		"definition": "made in three identical copies",
+		"parts": [
+			{
+				"m": "tri"
+			},
+			{
+				"m": "ply",
+				"as": "plic"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "replication",
+		"grade": 8,
+		"definition": "the act of repeating an experiment or making an exact copy",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "ply",
+				"as": "plic"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "station",
+		"grade": 4,
+		"definition": "a place where buses or trains stop for people",
+		"parts": [
+			{
+				"m": "stat"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "stationary",
+		"grade": 7,
+		"definition": "staying in one place; not moving",
+		"parts": [
+			{
+				"m": "stat"
+			},
+			{
+				"m": "ion"
+			},
+			{
+				"m": "ary"
+			}
+		]
+	},
+	{
+		"word": "substation",
+		"grade": 8,
+		"definition": "a small building where electricity is changed before it goes to homes",
+		"parts": [
+			{
+				"m": "sub"
+			},
+			{
+				"m": "stat"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "stature",
+		"grade": 8,
+		"definition": "a person's natural height",
+		"parts": [
+			{
+				"m": "stat"
+			},
+			{
+				"m": "ure"
+			}
+		]
+	},
+	{
+		"word": "resist",
+		"grade": 6,
+		"definition": "to fight against something or refuse to give in to it",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "sist"
+			}
+		]
+	},
+	{
+		"word": "resistance",
+		"grade": 6,
+		"definition": "the act of fighting against something",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "sist"
+			},
+			{
+				"m": "ance",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "insist",
+		"grade": 6,
+		"definition": "to demand something firmly",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "sist"
+			}
+		]
+	},
+	{
+		"word": "consist",
+		"grade": 7,
+		"definition": "to be made up of certain parts",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "sist"
+			}
+		]
+	},
+	{
+		"word": "consistent",
+		"grade": 7,
+		"definition": "staying the same in how you act or work",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "sist"
+			},
+			{
+				"m": "ent"
+			}
+		]
+	},
+	{
+		"word": "desist",
+		"grade": 8,
+		"definition": "to stop doing something",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "sist"
+			}
+		]
+	},
+	{
+		"word": "jury",
+		"grade": 5,
+		"definition": "a group of citizens who decide a court case",
+		"parts": [
+			{
+				"m": "jur"
+			},
+			{
+				"m": "y"
+			}
+		]
+	},
+	{
+		"word": "juror",
+		"grade": 6,
+		"definition": "a member of the group that decides a court case",
+		"parts": [
+			{
+				"m": "jur"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "jurist",
+		"grade": 8,
+		"definition": "an expert in law",
+		"parts": [
+			{
+				"m": "jur"
+			},
+			{
+				"m": "ist"
+			}
+		]
+	},
+	{
+		"word": "injury",
+		"grade": 5,
+		"definition": "harm or damage done to a body",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 0
+			},
+			{
+				"m": "jur"
+			},
+			{
+				"m": "y"
+			}
+		]
+	},
+	{
+		"word": "unjust",
+		"grade": 6,
+		"definition": "not fair or right",
+		"parts": [
+			{
+				"m": "un",
+				"meaning": 0
+			},
+			{
+				"m": "jur",
+				"as": "just"
+			}
+		]
+	},
+	{
+		"word": "justly",
+		"grade": 7,
+		"definition": "in a fair and right way",
+		"parts": [
+			{
+				"m": "jur",
+				"as": "just"
+			},
+			{
+				"m": "ly",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "justify",
+		"grade": 7,
+		"definition": "to give a good reason for something",
+		"parts": [
+			{
+				"m": "jur",
+				"as": "just"
+			},
+			{
+				"m": "fy",
+				"as": "ify"
+			}
+		]
+	},
+	{
+		"word": "jurisdiction",
+		"grade": 8,
+		"definition": "the area or range of matters that a court or leader has power over",
+		"parts": [
+			{
+				"m": "jur",
+				"as": "juris"
+			},
+			{
+				"m": "dict"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "judgment",
+		"grade": 6,
+		"definition": "a decision or opinion about something",
+		"parts": [
+			{
+				"m": "jud",
+				"as": "judg"
+			},
+			{
+				"m": "ment"
+			}
+		]
+	},
+	{
+		"word": "judgmental",
+		"grade": 8,
+		"definition": "too quick to form harsh opinions about other people",
+		"parts": [
+			{
+				"m": "jud",
+				"as": "judg"
+			},
+			{
+				"m": "ment"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "prejudgment",
+		"grade": 8,
+		"definition": "an opinion formed before knowing all the facts",
+		"parts": [
+			{
+				"m": "pre"
+			},
+			{
+				"m": "jud",
+				"as": "judg"
+			},
+			{
+				"m": "ment"
+			}
+		]
+	},
+	{
+		"word": "misjudgment",
+		"grade": 8,
+		"definition": "a wrong decision about someone or something",
+		"parts": [
+			{
+				"m": "mis"
+			},
+			{
+				"m": "jud",
+				"as": "judg"
+			},
+			{
+				"m": "ment"
+			}
+		]
+	},
+	{
+		"word": "judicious",
+		"grade": 8,
+		"definition": "showing good sense when making decisions",
+		"parts": [
+			{
+				"m": "jud",
+				"as": "judici"
+			},
+			{
+				"m": "ous"
+			}
+		]
+	},
+	{
+		"word": "judiciary",
+		"grade": 8,
+		"definition": "the system of courts, and the people who decide cases in them, in a country",
+		"parts": [
+			{
+				"m": "jud",
+				"as": "judici"
+			},
+			{
+				"m": "ary"
+			}
+		]
+	},
+	{
+		"word": "beneficial",
+		"grade": 6,
+		"definition": "helpful or useful",
+		"parts": [
+			{
+				"m": "bene"
+			},
+			{
+				"m": "fact",
+				"as": "fici"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "benefactor",
+		"grade": 8,
+		"definition": "a person who gives money or help to others",
+		"parts": [
+			{
+				"m": "bene"
+			},
+			{
+				"m": "fact"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "beneficiary",
+		"grade": 8,
+		"definition": "a person who receives money or help from a gift or a will",
+		"parts": [
+			{
+				"m": "bene"
+			},
+			{
+				"m": "fact",
+				"as": "fici"
+			},
+			{
+				"m": "ary"
+			}
+		]
+	},
+	{
+		"word": "benediction",
+		"grade": 8,
+		"definition": "a blessing said at the end of a church service",
+		"parts": [
+			{
+				"m": "bene"
+			},
+			{
+				"m": "dict"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "rejoin",
+		"grade": 5,
+		"definition": "to come back and become part of a group again",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "join"
+			}
+		]
+	},
+	{
+		"word": "junction",
+		"grade": 6,
+		"definition": "a place where roads or railroad tracks meet",
+		"parts": [
+			{
+				"m": "join",
+				"as": "junct"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "conjunction",
+		"grade": 6,
+		"definition": "a word like and, but, or or that links parts of a sentence",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "join",
+				"as": "junct"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "injunction",
+		"grade": 8,
+		"definition": "an order from a court to do or stop doing something",
+		"parts": [
+			{
+				"m": "in",
+				"meaning": 1
+			},
+			{
+				"m": "join",
+				"as": "junct"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "juncture",
+		"grade": 8,
+		"definition": "a point in time, especially an important one",
+		"parts": [
+			{
+				"m": "join",
+				"as": "junct"
+			},
+			{
+				"m": "ure"
+			}
+		]
+	},
+	{
+		"word": "restrict",
+		"grade": 7,
+		"definition": "to keep within certain limits",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "strict"
+			}
+		]
+	},
+	{
+		"word": "restriction",
+		"grade": 7,
+		"definition": "a rule or limit on what you may do",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "strict"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "restrictive",
+		"grade": 8,
+		"definition": "putting tight limits on what you may do",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "strict"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "constrict",
+		"grade": 8,
+		"definition": "to squeeze or make narrower",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "strict"
+			}
+		]
+	},
+	{
+		"word": "restrain",
+		"grade": 8,
+		"definition": "to hold someone or something back",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "strict",
+				"as": "strain"
+			}
+		]
+	},
+	{
+		"word": "constrain",
+		"grade": 8,
+		"definition": "to force someone to stay within limits",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "strict",
+				"as": "strain"
+			}
+		]
+	},
+	{
+		"word": "strictly",
+		"grade": 6,
+		"definition": "in a way that follows the rules exactly",
+		"parts": [
+			{
+				"m": "strict"
+			},
+			{
+				"m": "ly",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "stringent",
+		"grade": 8,
+		"definition": "having tough rules that must be followed exactly",
+		"parts": [
+			{
+				"m": "strict",
+				"as": "string"
+			},
+			{
+				"m": "ent"
+			}
+		]
+	},
+	{
+		"word": "terrestrial",
+		"grade": 7,
+		"definition": "having to do with the planet Earth or its land",
+		"parts": [
+			{
+				"m": "terra",
+				"as": "terrestri"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "terraform",
+		"grade": 8,
+		"definition": "to change another planet so people could live there",
+		"parts": [
+			{
+				"m": "terra"
+			},
+			{
+				"m": "form"
+			}
+		]
+	},
+	{
+		"word": "terraforming",
+		"grade": 8,
+		"definition": "the act of changing another planet so people could live there",
+		"parts": [
+			{
+				"m": "terra"
+			},
+			{
+				"m": "form"
+			},
+			{
+				"m": "ing"
+			}
+		]
+	},
+	{
+		"word": "distance",
+		"grade": 5,
+		"definition": "the amount of space between two places or things",
+		"parts": [
+			{
+				"m": "dis",
+				"meaning": 1,
+				"as": "di"
+			},
+			{
+				"m": "stat",
+				"as": "stance"
+			}
+		]
+	},
+	{
+		"word": "distant",
+		"grade": 5,
+		"definition": "far away in space or time",
+		"parts": [
+			{
+				"m": "dis",
+				"meaning": 1,
+				"as": "di"
+			},
+			{
+				"m": "stat",
+				"as": "stant"
+			}
+		]
+	},
+	{
+		"word": "citizenship",
+		"grade": 6,
+		"definition": "the rights and duties that come from belonging to a town or country",
+		"parts": [
+			{
+				"m": "citizen"
+			},
+			{
+				"m": "ship"
+			}
+		]
+	},
+	{
+		"word": "citizens",
+		"grade": 5,
+		"definition": "people who legally belong to a town or country",
+		"parts": [
+			{
+				"m": "citizen"
+			},
+			{
+				"m": "s",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "noncitizen",
+		"grade": 7,
+		"definition": "a person who does not legally belong to the country where they live",
+		"parts": [
+			{
+				"m": "non"
+			},
+			{
+				"m": "citizen"
+			}
+		]
+	},
+	{
+		"word": "community",
+		"grade": 5,
+		"definition": "a group of people who live in the same place or share the same interests",
+		"parts": [
+			{
+				"m": "commun"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "communal",
+		"grade": 7,
+		"definition": "shared by everyone in a group",
+		"parts": [
+			{
+				"m": "commun"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "communicate",
+		"grade": 6,
+		"definition": "to share ideas, news or feelings with others",
+		"parts": [
+			{
+				"m": "commun",
+				"as": "communic"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "communication",
+		"grade": 7,
+		"definition": "the sharing of ideas, news or feelings",
+		"parts": [
+			{
+				"m": "commun",
+				"as": "communic"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "communicator",
+		"grade": 8,
+		"definition": "a person who shares ideas or news with others",
+		"parts": [
+			{
+				"m": "commun",
+				"as": "communic"
+			},
+			{
+				"m": "ate",
+				"as": "at"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "communicative",
+		"grade": 8,
+		"definition": "willing and able to share ideas and feelings",
+		"parts": [
+			{
+				"m": "commun",
+				"as": "communic"
+			},
+			{
+				"m": "ate",
+				"as": "at"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "uncommunicative",
+		"grade": 8,
+		"definition": "unwilling to share ideas or feelings",
+		"parts": [
+			{
+				"m": "un",
+				"meaning": 0
+			},
+			{
+				"m": "commun",
+				"as": "communic"
+			},
+			{
+				"m": "ate",
+				"as": "at"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "global",
+		"grade": 6,
+		"definition": "covering the whole world",
+		"parts": [
+			{
+				"m": "globe",
+				"as": "glob"
+			},
+			{
+				"m": "al"
+			}
+		]
+	},
+	{
+		"word": "globally",
+		"grade": 7,
+		"definition": "in a way that covers the whole world",
+		"parts": [
+			{
+				"m": "globe",
+				"as": "glob"
+			},
+			{
+				"m": "al"
+			},
+			{
+				"m": "ly",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "globalize",
+		"grade": 8,
+		"definition": "to spread something until it reaches the whole world",
+		"parts": [
+			{
+				"m": "globe",
+				"as": "glob"
+			},
+			{
+				"m": "al"
+			},
+			{
+				"m": "ize"
+			}
+		]
+	},
+	{
+		"word": "globalization",
+		"grade": 8,
+		"definition": "the spreading of ideas, trade and culture across the whole world",
+		"parts": [
+			{
+				"m": "globe",
+				"as": "glob"
+			},
+			{
+				"m": "al"
+			},
+			{
+				"m": "ize",
+				"as": "iz"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "juxtapose",
+		"grade": 8,
+		"definition": "to place two things side by side so they can be compared",
+		"parts": [
+			{
+				"m": "juxta"
+			},
+			{
+				"m": "pose"
+			}
+		]
+	},
+	{
+		"word": "juxtaposed",
+		"grade": 8,
+		"definition": "placed side by side so they can be compared",
+		"parts": [
+			{
+				"m": "juxta"
+			},
+			{
+				"m": "pose",
+				"as": "pos"
+			},
+			{
+				"m": "ed"
+			}
+		]
+	},
+	{
+		"word": "juxtaposition",
+		"grade": 8,
+		"definition": "putting two things side by side to show how they differ",
+		"parts": [
+			{
+				"m": "juxta"
+			},
+			{
+				"m": "pose",
+				"as": "posit"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "migrate",
+		"grade": 6,
+		"definition": "to move from one place to another to live, as birds and people do",
+		"parts": [
+			{
+				"m": "migr"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "migration",
+		"grade": 6,
+		"definition": "a move from one place to another to live, or a trip animals make each year",
+		"parts": [
+			{
+				"m": "migr"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "migrant",
+		"grade": 6,
+		"definition": "a person or animal that moves from place to place to live",
+		"parts": [
+			{
+				"m": "migr"
+			},
+			{
+				"m": "ant"
+			}
+		]
+	},
+	{
+		"word": "immigrate",
+		"grade": 7,
+		"definition": "to move into a new country to live there",
+		"parts": [
+			{
+				"m": "in",
+				"as": "im",
+				"meaning": 1
+			},
+			{
+				"m": "migr"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "immigrant",
+		"grade": 7,
+		"definition": "a person who has come to live in a new country",
+		"parts": [
+			{
+				"m": "in",
+				"as": "im",
+				"meaning": 1
+			},
+			{
+				"m": "migr"
+			},
+			{
+				"m": "ant"
+			}
+		]
+	},
+	{
+		"word": "immigration",
+		"grade": 7,
+		"definition": "the act of coming to live in a new country",
+		"parts": [
+			{
+				"m": "in",
+				"as": "im",
+				"meaning": 1
+			},
+			{
+				"m": "migr"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "emigrate",
+		"grade": 8,
+		"definition": "to leave your own country to live in another one",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "migr"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "emigrant",
+		"grade": 8,
+		"definition": "a person who leaves their own country to live in another one",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "migr"
+			},
+			{
+				"m": "ant"
+			}
+		]
+	},
+	{
+		"word": "emigration",
+		"grade": 8,
+		"definition": "the act of leaving your own country to live in another one",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "migr"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "connect",
+		"grade": 6,
+		"definition": "to join things together",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "nect"
+			}
+		]
+	},
+	{
+		"word": "connection",
+		"grade": 6,
+		"definition": "a link that joins two things together",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "nect"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "connector",
+		"grade": 7,
+		"definition": "a thing that joins two parts together",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "nect"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "connective",
+		"grade": 8,
+		"definition": "serving to join things together",
+		"parts": [
+			{
+				"m": "con"
+			},
+			{
+				"m": "nect"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "disconnect",
+		"grade": 6,
+		"definition": "to break the link between two things",
+		"parts": [
+			{
+				"m": "dis",
+				"meaning": 1
+			},
+			{
+				"m": "con"
+			},
+			{
+				"m": "nect"
+			}
+		]
+	},
+	{
+		"word": "disconnection",
+		"grade": 8,
+		"definition": "the breaking of a link between two things",
+		"parts": [
+			{
+				"m": "dis",
+				"meaning": 1
+			},
+			{
+				"m": "con"
+			},
+			{
+				"m": "nect"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "reconnect",
+		"grade": 6,
+		"definition": "to join together once more",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 0
+			},
+			{
+				"m": "con"
+			},
+			{
+				"m": "nect"
+			}
+		]
+	},
+	{
+		"word": "interconnect",
+		"grade": 8,
+		"definition": "to link together so that each part touches the others",
+		"parts": [
+			{
+				"m": "inter"
+			},
+			{
+				"m": "con"
+			},
+			{
+				"m": "nect"
+			}
+		]
+	},
+	{
+		"word": "refuge",
+		"grade": 6,
+		"definition": "a safe place to go to get away from danger",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "fuge"
+			}
+		]
+	},
+	{
+		"word": "refugee",
+		"grade": 6,
+		"definition": "a person who has run away from danger and needs a safe place to live",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "fuge",
+				"as": "fug"
+			},
+			{
+				"m": "ee"
+			}
+		]
+	},
+	{
+		"word": "fugitive",
+		"grade": 8,
+		"definition": "a person who is running away, especially from the police",
+		"parts": [
+			{
+				"m": "fuge",
+				"as": "fugit"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "processor",
+		"grade": 7,
+		"definition": "a machine or person that puts things through a series of steps",
+		"parts": [
+			{
+				"m": "pro"
+			},
+			{
+				"m": "cede",
+				"as": "cess"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "procession",
+		"grade": 6,
+		"definition": "a line of people moving forward in order, like a parade",
+		"parts": [
+			{
+				"m": "pro"
+			},
+			{
+				"m": "cede",
+				"as": "cess"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "recess",
+		"grade": 5,
+		"definition": "a short break from work when people go outside",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "cede",
+				"as": "cess"
+			}
+		]
+	},
+	{
+		"word": "recession",
+		"grade": 8,
+		"definition": "a time when a country's businesses slow down and fewer people have jobs",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "cede",
+				"as": "cess"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "excess",
+		"grade": 7,
+		"definition": "more than is needed",
+		"parts": [
+			{
+				"m": "ex"
+			},
+			{
+				"m": "cede",
+				"as": "cess"
+			}
+		]
+	},
+	{
+		"word": "excessive",
+		"grade": 7,
+		"definition": "much more than is needed",
+		"parts": [
+			{
+				"m": "ex"
+			},
+			{
+				"m": "cede",
+				"as": "cess"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "produce",
+		"grade": 5,
+		"definition": "to make or grow something",
+		"parts": [
+			{
+				"m": "pro"
+			},
+			{
+				"m": "duct",
+				"as": "duce"
+			}
+		]
+	},
+	{
+		"word": "reduce",
+		"grade": 6,
+		"definition": "to make smaller or less",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "duct",
+				"as": "duce"
+			}
+		]
+	},
+	{
+		"word": "reduction",
+		"grade": 7,
+		"definition": "the act of making something smaller or less",
+		"parts": [
+			{
+				"m": "re",
+				"meaning": 1
+			},
+			{
+				"m": "duct"
+			},
+			{
+				"m": "ion"
+			}
+		]
+	},
+	{
+		"word": "deduce",
+		"grade": 8,
+		"definition": "to work out an answer by thinking about clues",
+		"parts": [
+			{
+				"m": "de"
+			},
+			{
+				"m": "duct",
+				"as": "duce"
+			}
+		]
+	},
+	{
+		"word": "educate",
+		"grade": 6,
+		"definition": "to teach someone and help them learn",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "duct",
+				"as": "duc"
+			},
+			{
+				"m": "ate"
+			}
+		]
+	},
+	{
+		"word": "education",
+		"grade": 6,
+		"definition": "the teaching and learning that happens at school and beyond",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "duct",
+				"as": "duc"
+			},
+			{
+				"m": "ation"
+			}
+		]
+	},
+	{
+		"word": "educator",
+		"grade": 8,
+		"definition": "a person whose job is to teach",
+		"parts": [
+			{
+				"m": "ex",
+				"as": "e"
+			},
+			{
+				"m": "duct",
+				"as": "duc"
+			},
+			{
+				"m": "ate",
+				"as": "at"
+			},
+			{
+				"m": "or"
+			}
+		]
+	},
+	{
+		"word": "productivity",
+		"grade": 8,
+		"definition": "how much work or goods can be made in a certain time",
+		"parts": [
+			{
+				"m": "pro"
+			},
+			{
+				"m": "duct"
+			},
+			{
+				"m": "ive",
+				"as": "iv"
+			},
+			{
+				"m": "ity"
+			}
+		]
+	},
+	{
+		"word": "massive",
+		"grade": 6,
+		"definition": "very big, heavy and solid",
+		"parts": [
+			{
+				"m": "mass"
+			},
+			{
+				"m": "ive"
+			}
+		]
+	},
+	{
+		"word": "massively",
+		"grade": 7,
+		"definition": "in a very big or very large way",
+		"parts": [
+			{
+				"m": "mass"
+			},
+			{
+				"m": "ive"
+			},
+			{
+				"m": "ly",
+				"meaning": 0
+			}
+		]
+	},
+	{
+		"word": "biomass",
+		"grade": 7,
+		"definition": "the total amount of living material in an area, like all the plants and animals in a forest",
+		"parts": [
+			{
+				"m": "bio"
+			},
+			{
+				"m": "mass"
+			}
+		]
 	}
 ]
