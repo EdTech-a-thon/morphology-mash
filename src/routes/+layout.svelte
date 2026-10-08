@@ -3,6 +3,7 @@
 	import { page } from '$app/state';
 	import favicon from '$lib/assets/favicon.svg';
 	import Footer from '$lib/Footer.svelte';
+	import WhatsNew from '$lib/WhatsNew.svelte';
 
 	let { children } = $props();
 
@@ -31,6 +32,7 @@
      the student page has none, so a session fits the window without scrolling. -->
 <div class="shell">
 	<div class="content">{@render children()}</div>
+	<WhatsNew />
 	{#if !page.route.id?.startsWith('/activity') && page.route.id !== '/practice'}
 		<div class="page-footer"><Footer /></div>
 	{/if}

@@ -72,6 +72,14 @@ After editing, run `bun run check:content`. It checks that every word's parts
 join back into the word, every id, meaning number and tag is valid, and every
 starter activity makes at least 5 words.
 
+## Telling teachers what's changed
+
+`NEWS` in `src/lib/news.svelte.ts` is the "What's changed" window: each piece
+of news is a few changes, each beside a drawing from `NewsArt.svelte`. A teacher
+who was already using the app sees the news they haven't seen yet, once, on the
+next teacher page they open; a first visit counts all news as seen, and students
+never see it. The Help pop-up shows it all again. Add new news at the end.
+
 ## Running
 
 ```

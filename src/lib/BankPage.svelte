@@ -12,6 +12,7 @@
 		MORPHEMES,
 		morphemesOfType,
 		ORIGIN_NAMES,
+		OTHER_SPELLINGS,
 		tileLabel,
 		wordsFor,
 		type Morpheme,
@@ -94,6 +95,7 @@
 		const matches =
 			!q ||
 			m.spelling.includes(q) ||
+			(OTHER_SPELLINGS[m.id] ?? []).some((spelling) => spelling.startsWith(q)) ||
 			m.meanings.some((meaning) => meaning.toLowerCase().includes(q)) ||
 			(m.root ?? '').toLowerCase().includes(q);
 		return (

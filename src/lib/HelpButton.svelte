@@ -5,6 +5,7 @@
 	// keeps focus inside it and closes it on Escape.
 	import { CircleQuestionMark, X } from '@lucide/svelte';
 	import { resolve } from '$app/paths';
+	import { NEWS, showAllNews } from './news.svelte';
 
 	const CONTACT = 'support@teacher.dev';
 	const mail = (subject: string) =>
@@ -16,6 +17,11 @@
 	// anything inside it.
 	function closeOnBackdrop(event: MouseEvent) {
 		if (event.target === dialog) dialog?.close();
+	}
+
+	function whatsChanged() {
+		dialog?.close();
+		showAllNews();
 	}
 </script>
 
@@ -70,6 +76,10 @@
 	</p>
 
 	<p class="links">
+		{#if NEWS.length}<button type="button" class="link" onclick={whatsChanged}
+				>What's changed</button
+			>
+			·{/if}
 		<a href={resolve('/about')}>About</a> · <a href={resolve('/privacy')}>Privacy</a>
 	</p>
 </dialog>
@@ -150,9 +160,18 @@
 		font-size: 0.9rem;
 		line-height: 1.6;
 	}
-	a {
+	a,
+	.link {
 		color: var(--accent);
 		font-weight: 600;
+	}
+	.link {
+		padding: 0;
+		border: none;
+		background: none;
+		font: inherit;
+		text-decoration: underline;
+		cursor: pointer;
 	}
 	.links {
 		margin-top: 1rem;

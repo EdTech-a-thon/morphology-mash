@@ -10,6 +10,7 @@
 // that it happened, so a starter the teacher deletes stays deleted.
 
 import { STARTERS } from './content';
+import { markAllNewsSeen, showUnseenNews } from './news.svelte';
 import {
 	defaultSettings,
 	settingsFromParams,
@@ -52,9 +53,14 @@ export function newId(): string {
  * Read the list from storage, adding any starter activity this browser has not
  * been given yet. Each starter is added once, by id, so a teacher who deletes
  * one never sees it again, and starters added to the app later still arrive.
+ *
+ * This is also where a teacher is told what's changed since their last visit;
+ * on a first visit there is nothing to tell.
  */
 export function loadActivities() {
 	if (store.loaded) return;
+	if (read(SEEDED_KEY) === null) markAllNewsSeen();
+	else showUnseenNews();
 	const raw = read(LIST_KEY);
 	store.list = Array.isArray(raw) ? raw.filter(isStored).map(fromStored) : [];
 	const given = seededIds();

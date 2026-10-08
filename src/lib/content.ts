@@ -117,6 +117,16 @@ export function morphemeOf(part: Part): Morpheme {
 	return MORPHEMES[part.m];
 }
 
+/**
+ * The other ways each morpheme is written in its words (mit as "miss" in
+ * missionary, syn as "sym" in symmetry), so a teacher searching the Morpheme
+ * Bank for either spelling finds it.
+ */
+export const OTHER_SPELLINGS: Record<string, string[]> = {};
+for (const w of WORDS)
+	for (const p of w.parts)
+		if (p.as && !(OTHER_SPELLINGS[p.m] ??= []).includes(p.as)) OTHER_SPELLINGS[p.m].push(p.as);
+
 /** The letters this part takes up in its word. */
 export function writtenForm(part: Part): string {
 	return part.as ?? MORPHEMES[part.m].spelling;
